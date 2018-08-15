@@ -1,471 +1,471 @@
-cx	cy	capitalization	earnings	taxes	x	y	sector	name	alias	symbol
-765	0.7	4036	61000	-26920.71	749.9	0	Fleet Services	Miscellaneous		SEE
-759.4	25.8	32288	350766	-25641.51	750.4	-12.1	Municipal Court	Other Requirements		HIG
-758.4	33.6	8072	31500	-8.2	750.4	12.5	Human Resources	Court and Legal Fees		XL
-745.3	-25.8	12108	19718	0	750.1	2.6	Animal Services	Other Requirements		TYC
-743.7	17.3	30270	99083	0	749.8	0	Austin Convention Center	Other Requirements		EXPE
-762.5	-28.1	2018	100735	0	750.1	-5.3	Austin Public Health	Community Relations and Contract Management		MAS
-737.6	23.7	10090	81622	0	750.3	5.5	Austin Public Library	Other Requirements		NFX
-764.8	-8.2	10090	7711	0	753.3	5.5	Communications & Public Information	Other Requirements		TWC
-750.1	2.8	10090	355259.33	0	750.6	-6	Communications & Technology Management	Miscellaneous		C
-763.9	20.6	12108	139057	0	754	18.1	Development Services	Other Requirements		ZION
-755.3	-24.2	10090	501439	0	752.2	1.3	Emergency Medical Services	Other Requirements		SYMC
-756.3	-11.1	10090	2734085	0	746	0.4	Fire	Other Requirements		GCI
-748.5	-15.6	18162	13686996	0	751.6	-6.6	Human Resources	Claims Reserve - Self Insured Programs		CBS
-757.2	-16.5	10090	33252	0	758.5	-1.4	Human Resources	Other Requirements		DF
-768.1	14.2	12108	3600000	0	755.1	10.5	Human Resources	Stop Loss Reserve - Self Insured Programs		WY
-735	16.7	8072	2077	0	746.6	15.5	Intergovernmental Relations	Other Requirements		PLD
-761.2	12.2	10090	31059	0	748.2	8.3	Law	Other Requirements		FHN
--0.4	-6.8	10090	27563	0	0	0	Management Services	Other Requirements		THC
-734.4	7.5	6054	13564	0	741.8	7.7	Mayor & Council	Other Requirements		RF
-733.4	-11.5	10090	6642	0	749.9	0	Neighborhood Housing & Community Development	Other Requirements		BSX
-747.2	28.8	4036	46665	0	749.7	0.4	Neighborhood Housing & Community Development	Renter Assistance Counseling	A.I.G.	AIG
-751.1	-31.8	10090	10075	0	747.5	-6	Office of Real Estate Services	Other Requirements		MU
-757.4	17.6	10090	8141	0	749.9	-1.3	Office of the City Auditor	Other Requirements		CHK
--4.6	9	10090	6627	0	-1.1	-3.3	Office of the City Clerk	Other Requirements		EQT
-757.5	-31.4	20180	158665	0	754	-5.9	Parks & Recreation	Other Requirements		LSI
-737.9	-27.5	2018	1712	0	749	8.5	Parks & Recreation	PARD Miscellaneous Donation Trust		EA
-744.8	-32.8	10090	14159	0	745.5	4.2	Planning & Zoning	Other Requirements		JDSU
-750.2	17.9	10090	5476829	0	750.3	22.5	Police	Other Requirements		AIV
-764.3	-19.5	10090	7851	0	754.6	0	Small and Minority Business Resources	Other Requirements		CCI
-740.3	-32	10090	3940	0	745.5	-0.4	Telecommunications & Regulatory Affairs	Other Requirements		AMD
-765	6.7	18162	258714	2902.72	761.1	5.2	Austin Public Health	Other Requirements		HBAN
--4.7	-0.1	2018	64025	1432	-0.9	-1.5	Office of the City Clerk	Elections		EQR
-737.9	-19.4	14126	40867	1110	744.3	0	Building Services	Other Requirements		S
--0.2	16.1	232070	1820328.68	178043.16	4.7	2.7	Parks & Recreation	Miscellaneous		RRC
-3.6	-15.3	228034	5406410	788970.24	4.4	-2.5	Neighborhood Housing & Community Development	Housing Developer Assistance		NEE
-4.7	5.6	36324	209167	32888.15	7.4	0	Austin Public Health	"Women, Infant & Children"		CCL
-9.7	15.9	18162	200937	34939.55	7.5	5.1	Neighborhood Housing & Community Development	Homeless / Special Needs		HCP
-6.8	-4.6	56504	5573346	1160842.66	8.9	7.7	Police	Miscellaneous		XEL
-11.8	0.8	12108	1106033	249671.5	10.6	0	Austin Convention Center	Miscellaneous		PCS
-16	7.3	54486	13006342	3088558.17	11	-4.9	Economic Development	Miscellaneous		HCN
-11.4	-10.3	20180	5477055	1309108.69	12.8	1.5	Economic Development	Other Requirements		TE
-15.8	-4.9	8072	122300	29246.69	12.2	0	Communications & Public Information	Miscellaneous		WDC
-15.2	-17.3	30270	129205102	32184984.3	15.7	-5.8	Aviation	Transfers		PCG
-21.5	13.3	48432	203249	55334.53	19.3	0	Neighborhood Housing & Community Development	Financial Empowerment		QEP
-23.8	-10.8	34306	480000	134320.16	24.2	0.7	Austin Transportation	Miscellaneous		AEP
-25.3	7	8072	1193281	342452.49	25.5	0	Austin Public Health	Community Planning		STX
-23.6	-1.3	2018	1229150	369338.37	27.2	9.7	Austin Public Health	Health Equity Contracts		OKE
-32.4	0.7	232070	295000	88982.86	34.9	0	Neighborhood Housing & Community Development	Homeowner Assistance		BRCM
-31.8	-7.5	14126	184256615	59687743.82	33.7	7.3	General Obligation Debt Service	Other Requirements		POM
-37.5	-16.8	22198	11610717	3843153.17	37.2	-3.1	Human Resources	Medical Expenses and Claims Reserve		DUK
-35.9	13.1	22198	9315356	3085499.97	38.5	-1.5	Financial Services	Other Requirements		F
-39.6	-5.1	14126	80336	27035.62	40.6	8.3	Fleet Services	Other Requirements		CNP
-46.1	-9.1	28252	8331720	2993429.31	46.6	3.6	Austin Energy	Other Requirements		NRG
-47.3	8.3	6054	378617	137865.42	48	5.9	Municipal Court	Security Services		WYNN
-41.3	2.6	113008	3907621	1446746.1	44.4	0	Austin Energy	311 City-Wide Call Center		ALTR
-47.6	17.1	169512	6390200	2382979.78	46.2	0	Austin Transportation	Transportation Engineering		COG
-48.1	-21	48432	1692325	648389.98	48.6	-4	Development Services	Miscellaneous		CMS
-47.2	-1.9	52468	60110	23581.49	51.9	0	Neighborhood Housing & Community Development	Neighborhood & Community Revitalization		NVDA
-53.1	-14.2	40360	1862193	753501.75	55	1.5	Austin Public Health	Miscellaneous		ED
-56	20.2	30270	4073965	1697145	55.1	-0.2	Economic Development	Transfers		SWN
-54.4	12.2	298664	5036241	2150700.77	58.7	3.9	Economic Development	Small Business Program		KIM
-61.3	-11.1	10090	13365665	5773165	59.2	0	Watershed Protection	Miscellaneous		RHT
-56.2	4.7	64576	658921	285829.52	60.2	-3.7	Watershed Protection	Value Engineering		LUK
-62	25	14126	4720763	2047908.25	62.7	0.4	Fleet Services	Transfers		DNR
-55.5	-4.4	30270	225000	98350.88	61.2	0	Communications & Technology Management	Other Requirements		ALXN
-57.5	-21.9	40360	2037000	900707.08	61.9	-4.2	Telecommunications & Regulatory Affairs	Miscellaneous		WEC
-63.4	-17.9	94846	1422000	629335.54	64.5	2.5	Public Works	Bridge Maintenance		PNW
-68.5	-24.6	34306	243848	108893.54	69.9	-2.8	Mayor & Council	Mayor and Council Admin Costs		DTE
-68.2	-10.3	60540	708106	324996.49	69.2	0	Telecommunications & Regulatory Affairs	Digital Inclusion		R
-69.8	12.2	2018	1435629	666291	72	0	Human Resources	Settlements and Impairments		AMZN
-65.3	-3.5	62558	1035585	480922.42	72.6	0	Municipal Court	Civil Red Light Administration		VNO
-70.8	-16.5	161440	1871189	872656.01	75.1	0	Financial Services	Office of the Chief Financial Officer		NTAP
-78.8	-19.2	66594	6408849	3056890.43	76.5	2.4	Financial Services	Miscellaneous		ETR
-735.5	1.1	108972	1172402	560353.71	736.6	-9.7	Animal Services	Departmental Support Services		ETFC
-80.3	24.8	290592	3802925	1820625.16	80.2	0	Austin Water	Distribution System Engineering		PXD
-78.7	-6.1	135206	1547523.8	772936.98	80.5	0	Aviation	Mechanic Shop		BA
-85.9	-23	4036	294000	146952.69	83.9	-2.9	Neighborhood Housing & Community Development	Miscellaneous		XLNX
-86.3	-15.7	80720	2271750	1155450.4	85.8	4	Financial Services	Payroll		MCHP
-87.3	16.1	179602	5958252	3036974	86.8	2.9	Austin Transportation	Signs and Markings		AMT
-85.8	5	139242	982583	501111.15	90.4	-7.1	Planning & Zoning	Code Management		HST
-93.8	7.9	171530	11184618	5724175.96	91	-0.1	Austin Water	Other Utility Program Requirements		HOT
-95.5	24.8	14126	42389460	21756564.38	94.5	0	Human Resources	Employee HMO		VLO
-94.8	-24.7	147314	1491839	772501.42	94.9	0	Austin Transportation	Active Transportation and Street Design		GLW
-103.7	19.2	94846	240500	125309.77	98.2	0	Animal Services	Miscellaneous		FMC
-97.3	15.6	1000928	24311414	12708887.77	99	0.3	Aviation	Departmental Support Services		TAP
-100.1	-7.7	240142	9195403	4822539.23	99.1	0	Austin Transportation	Arterial Management		VZ
-102.3	9.2	147314	1159532	618289.7	107.1	-0.1	Management Services	Police Oversight Monitoring		DLPH
-109.7	23.1	316826	6662397	3552779.73	105.3	0	Public Works	Seal Coat & Other Thin Surface Treatments		LNC
-107.7	-22.1	72648	2305741	1234403.84	109.4	0	Municipal Court	Rehabilitation Services		AEE
-109.2	5.6	217944	2697729	1448035.01	111.3	0	Austin Resource Recovery	Strategic Initiatives		WAT
-118.5	-22.5	492392	4248439	2287209.06	116.1	0	Austin Convention Center	Utility and Technology Services		GAS
-113.7	-17.4	264358	6174538	3328004.65	115.7	-2.9	Public Works	Concrete Repair & Construction		XRX
-116.7	3.1	258304	2063892	1117236.83	120.9	3.6	Fleet Services	Vehicle Life Cycle Management		CTXS
-111.1	14.3	399564	13791800	7510960.05	121.4	0	Police	Strategic Support		IP
-115.8	-4.4	10090	57812	31766.42	123	-3.8	Human Resources	Retiree With Medicare CDHP		LRCX
-119.5	10.6	66594	453249	253753.81	125.8	0	Austin Code	Code Education and Collaboration		EW
-125.8	13.6	688138	11895520	6680824.08	128.5	0	Communications & Technology Management	Wireless Infrastructure and Public Safety		GRMN
-118.1	-11.1	34306	93923700	52785354.09	127.8	-8.9	Austin Energy	Miscellaneous		TDC
-131.2	-13.1	2018	7156713	4045917	127.4	-0.3	Nondepartmental	Other Requirements		TEG
-126.6	-3.5	20180	4533453	2568229.12	132.8	1.3	Human Resources	Fully Funded by City - Employee/Retiree		EMC
-120.4	21.8	369294	12670248	7185489.14	133.3	-5.6	Public Works	Utility Excavation Repair		EOG
-124.4	-17.1	274448	4280531	2438431.35	131.1	6.7	Building Services	Departmental Support Services		PPL
-127	32.5	157404	2146663	1232585.13	133.8	7	Aviation	MaxAdmin		MPC
-124.7	6.8	238124	2628459	1510114.13	134.9	0	Human Resources	Employee and Labor Relations		FTR
-133	8.3	10090	8999899	5172071.15	137.4	-2	Human Resources	Retiree With Medicare HMO		MCK
-137.4	-21.4	84756	1381508	808033.48	136.8	-4	Intergovernmental Relations	Government Relations		SO
-139.6	33.6	12108	10528296	6168279.8	140.1	0	Human Resources	Retiree Without Medicare HMO		PNC
-138	-9	4036	465000	272890.58	141.3	7.4	Human Resources	Miscellaneous		SRE
-126.5	-27	16144	1219888	716206.85	147.5	-9.8	Austin Code	Other Requirements		FE
-134	-31.8	187674	5104390	3048537.83	150.2	8.3	Development Services	Commercial Building Plan Review		NI
-128.4	-38.2	40360	1249899	750565.86	148.1	0	Public Works	Other Requirements		EIX
-134.7	20.8	512572	10939589	6594749.93	148.6	3.8	Development Services	Departmental Support Services		BAX
-144.7	-14.1	207854	11020819	6652222.96	142.6	6.6	Public Works	Asphalt Overlay		VRSN
-146.3	-7.7	153368	15094225	9112898.32	147.2	11.4	Fleet Services	Fuel Management		AKAM
-142.9	11.4	217944	14904132	9015801.7	153.5	-6.6	Aviation	Building Maintenance		A
-146.7	-19.5	205836	2340010	1416897.74	152.4	11.1	Fleet Services	Fleet Programs		FSLR
-141.9	1.2	409654	2362873	1438234.09	159.3	0	Austin Code	Licensing & Registration Compliance		CSX
-151.8	-48.7	20180	22650190	13802389	159.1	-10.9	Financial Services	Transfers		AAPL
-171.8	-62.3	102918	1023237	623727.41	161.7	0	Law	Departmental Support Services		SCG
-149.6	-2.8	6054	216700	132110.48	163.6	0	Neighborhood Housing & Community Development	Renter Assistance		WIN
-147.7	-24.9	657868	6876042	4194162.36	157.9	13.4	Watershed Protection	Departmental Support Services		ADSK
-152.1	60.6	264358	1792896	1094236.82	168.9	0	Austin Resource Recovery	Remediation		MWV
-160.1	63.6	90810	1349193	824672.45	168.7	-1.8	Economic Development	Music and Entertainment		SE
-167.1	68.5	179602	1021596	625138.16	172.6	5.8	Communications & Public Information	Community Engagement		HP
-164.1	-14.1	88792	850434	521002.47	175.5	21.9	Municipal Court	Youth Case Management	I.B.M.	IBM
-176	-55.6	100900	1606714	988406	174.5	0	Office of Real Estate Services	Departmental Support Services		NU
-158.3	44.2	10090	35176485	21665300	175.4	-0.1	Enterprise Debt Service	Transfers		KO
-174	35.9	72648	259359	160267.17	179.1	0	Public Works	Neighborhood Partnering Program		CFN
-178.2	68.5	298664	2308289	1427759.09	178.7	0.3	Fire	"Inspection, Review, and Support"		ALL
-170.5	60	24216	6703000	4150844.29	179.6	-0.1	Austin Energy	Conservation Rebates and Incentives		WMB
-176.3	50.9	127134	1504920	933245.23	180	0	Office of the City Clerk	Departmental Support Services		APD
-153.5	6.6	185656	12246995	7613388.64	178.4	-17.4	Aviation	Parking		DHR
-150.5	22.4	16144	1817837	1130596.33	181.3	-10	Watershed Protection	Other Requirements		BMY
-185.6	39.8	339024	4615690	2877793.07	182.2	8.5	Fire	Education Services		AMGN
-168.4	-32.9	817290	31555718	19710429.54	177.3	2.8	Communications & Technology Management	Infrastructure		BMC
-174.8	16.3	4036	6604688	4132034.15	184.4	5.2	Aviation	Air/Fire Rescue (ARFF)		GE
-197.6	41.1	76684	828275	519100.99	191.9	3.6	Emergency Medical Services	Employee  Wellness		CVC
-183.8	-4.1	90810	957328	600727.12	191.6	-15.9	Communications & Public Information	Video Production Services		ETN
-184.2	52.8	454050	5811319	3649288.88	188.9	-1.4	Austin Code	Departmental Support Services		ARG
-196.2	45	90810	1130732	712566.95	190.7	4.1	Austin Code	"Case Review, Preparation and Enforcement"		X
-180.8	59.3	504500	3850132	2440691.85	187.7	-2.8	Management Services	City Management		PFG
-185.8	-60.7	70630	511933	329725.29	193.8	0	Mayor & Council	Place 09		EXC
-185.4	-15.6	119062	3554860	2292095.8	197	18.9	Aviation	Airline Maintenance		CRM
-194.5	54.2	365258	6486467	4183049.67	195.5	-3.4	Aviation	Operations		PSX
-197.1	73.7	199782	1725661	1114083.67	195.9	7.4	Austin Transportation	Transportation Systems Development		NE
-208.4	-17.9	409654	17854847	11549099.76	200.4	-6.8	Communications & Technology Management	CTECC Infrastructure and Public Safety		LUV
-187.6	-37.9	179602	2419560.6	1566358.94	196.2	-3.4	Aviation	Airside Maintenance		GOOG
-189.9	66.7	90810	1824041	1184045.37	197.7	-1.4	Austin Public Library	Reference and Information Services		ACE
-193.6	27	96864	1693655	1100938.11	199.4	-0.1	Aviation	Airport Environmental Affairs		HNZ
-198.1	-68.9	4036	7769281	5054102.14	200.2	-25.4	Austin Public Health	Basic Needs		DELL
-199.1	35.6	900028	15591228	10144325.1	200.3	0	Austin Energy	Billing and Revenue Measurement		AMP
-201.5	30.2	133188	504165	328274.34	201.4	0	Public Works	Safety Education		ATI
-205.9	54.7	518626	8950904	5842938.14	203.7	4.6	Austin Convention Center	Departmental Support Services		ESV
-197.1	-57.9	674012	10225969	6698904.86	210.1	-20.5	Police	Forensics Science Services		ADBE
-206.8	22.1	183638	2271987	1495525.66	208.2	-0.3	Economic Development	Redevelopment Services		DRI
-190.7	10.4	8072	8518819	5610763.06	205.8	-0.4	Austin Public Health	Child & Youth		HSP
-211.2	75.3	308754	4342425	2865069.88	208.2	6.8	Austin Public Health	Communicable Disease		MET
-192.8	2.6	2350970	45923050	30436934.94	207.7	0	Austin Energy	Power Delivery Support		CTL
-202.5	65	518626	7150278	4743982.24	209.4	-6.5	Watershed Protection	Drainage Pipeline Management		TRV
-201.4	13.6	58522	501894	333413.04	209.4	0	Law	Public Information Requests		ABT
-205.5	44.5	123098	1136908	755737.89	212.3	0	Public Works	Crack Seal Resurfacing		STT
-212.2	7.7	113008	696548	464513.25	212.2	2	Small and Minority Business Resources	Departmental Support Services		FRX
-198.3	-16.6	161440	426956	285053.23	210.1	16.1	Austin Public Library	Miscellaneous		HPQ
-210.3	32.1	898010	11307006	7549912.64	215.7	0	Austin Resource Recovery	Departmental Support Services		DD
-201.4	24.5	4011784	98753750	66087482.41	218.1	0	Austin Energy	Departmental Support Services		IPG
-216.3	51	189692	6119384	4100973.68	218.8	0	Austin Water	Collection System Engineering		PCLN
-206.4	-26.7	141260	6851369	4594740.56	218.3	-7.7	Public Works	Construction Services		RTN
-212.4	60.3	563022	9558090	6439796.53	219.6	-10.7	Watershed Protection	Field Operations Management		CNX
-213.5	-40.2	567058	19996821	13480534.96	225.5	10.4	Austin Convention Center	Facilities Operations		EBAY
-204.4	-49.4	62558	177962	120158.05	215.3	2.5	Public Works	Urban Trails		JNPR
-205.7	-2.6	153368	5000000	3381288.2	219.4	-8.3	Law	Miscellaneous		LLY
-736.2	-4.6	1079630	17913466	12124717.35	742.2	-4.5	Police	Departmental Support Services		DHI
-213.5	-61.6	484320	3529714	2398537.01	223.4	-10.1	Public Works	Off-Street R-O-W Maintenance	Qualcomm Incorporated	QCOM
-223.4	-34.1	199782	2500210	1702268.67	226	-8.4	Development Services	Development Assistance Center		DNB
-219.1	34.3	127134	3991744	2718687.69	224.2	5.5	Austin Water	Water Conservation		HAS
-223.1	28.5	64576	701927	478228.92	225.6	-2.1	Office of the City Auditor	Integrity Services		MAT
-225.9	48.9	1602292	12682417	8663172.91	226	-12.3	Public Works	Departmental Support Services		BTU
-225.9	65.3	70630	408332	279024.73	226.9	1.5	Watershed Protection	Environmental Policy		SLB
-216.5	18.4	16144	10065396	6880457.68	226.8	0	Human Resources	Employee CDHP		MDT
-224.8	-72.6	108972	536646	366991.58	234.4	-21.4	Planning & Zoning	Neighborhood Involvement and Implementation		ADI
-219.9	-23.3	1241070	20036744	13721944.45	227.3	2.9	Austin Energy	Customer Contact Center		UNP
-233.7	80	389474	4699518	3218695.13	228.8	0	Austin Water	Utility Development Services		PRU
-219.6	-50.2	6054	2477675	1698195.1	232	0.7	Human Resources	Indemnity Payments		TER
-229.9	-33.5	268394	3220495	2209048.68	229.5	24.5	Fleet Services	Departmental Support Services		CTSH
-226.5	17.4	78702	2212959	1522482.76	237.5	0	Aviation	Airport Property Management		XRAY
-231.9	-19.7	12108	34229761	23632015.23	238.3	8.7	Human Resources	Retiree Without Medicare PPO		COL
-213.8	-11.9	80720	892908	616507	233.5	-12.7	Financial Services	Performance Management		PRGO
-230	-0.7	169512	2518829	1739545.38	238.9	6.4	Parks & Recreation	Cemetery Operations		JNJ
-227.2	39.2	84756	616289	425620.14	238.2	0.9	Management Services	Equity Office		PX
-237.7	49.9	268394	2097521	1453322.17	238.7	-2.6	Human Resources	Risk Management		USB
-217.2	40.6	476248	7988344	5541253.95	238.3	15.1	Austin Transportation	Parking Management		WHR
-228.3	-63.7	456068	4694867	3258993.2	237	4.9	Watershed Protection	Flood Safety		WU
-241.3	-26.5	226016	6714080	4663918.75	239.3	-9.1	Austin Convention Center	Event Set-Up Operations		CAT
-241.6	84.1	74666	896558	623965.96	241.8	0	Planning & Zoning	Zoning Case Management		TMK
-249.7	-13.4	153368	1166324	812835.66	244.7	-16.4	Watershed Protection	Stream Restoration		CELG
-249	10.1	256286	2192040	1529809.93	241.8	-17.2	Police	Community Partnerships		YUM
-232.6	-49.5	452032	3291908	2301063.06	244.6	17.5	Austin Convention Center	Parking Management		CSCO
-250.5	-33.1	6054	645191	451241.07	240.4	2.2	Austin Public Health	HIV		JOY
-254.8	-25.9	86774	1101584	770524.75	245.8	14.1	Municipal Court	Collection Services		NSC
-239.2	25.4	159422	998037	698531.28	244.1	0.7	Watershed Protection	Watershed Management		PEP
-255.3	32.5	292610	8629884	6053783.31	247.9	16.7	Financial Services	Accounting and Reporting		OMC
-248.4	39.9	371312	4456308	3134558.18	249	-4.8	Austin Public Health	Community Health		MOS
-248.4	88.9	185656	1866645	1313516.54	248.5	0	Austin Water	Public Affairs		NBL
-245.3	-73.9	252250	3352493	2361106.31	251	-9.1	Financial Services	Budget		MSFT
-250.8	-42.8	1089720	32917712	23193932.72	251.9	1.6	Austin Water	Treatment Water Operations		HON
-247.2	-53.6	80720	1007280	709947.34	258	10	Animal Services	Prevention Services		APH
-740.7	-9.9	219962	1307366	921521.53	740.3	3.2	Telecommunications & Regulatory Affairs	Regulatory Affairs		PHM
-251.3	49.5	96864	1426113	1005579.72	251.8	5.4	Austin Public Library	Austin History Center		SHW
-258.6	-5.6	12108	100383171	70987449.98	250.9	-3.1	Austin Energy	Debt Transfers		STJ
-259.7	86.7	625580	8122255	5744597.27	254.8	0	Parks & Recreation	Aquatics		L
-250.9	-0.9	328934	12069524	8545875.66	258.9	1.8	Aviation	Airport Security		ISRG
-251.1	69.1	125116	6728967	4770251.77	255.3	13.9	Public Works	Project Management		WFC
-254.4	-56.3	104936	853679	606473.52	255.1	-10.1	Public Works	Sidewalk Program		SRCL
-261.4	5.8	183638	9584546	6820577.14	262.8	2.6	Austin Convention Center	Event Sales and Contracting		KMB
-273	7.3	4036	8395700	5990702	259.7	-7.6	Austin Conv & Visitors Bureau	Acvb Corporation		MKC
-266.5	-3.9	133188	1718017	1226931	267.4	-7.2	Watershed Protection	Pollution Prevention and Reduction		CCE
-271.4	0.2	153368	8197869	5856310.46	269.4	10.6	Aviation	Facility Services		NWL
-265.2	-40.3	86774	2606288	1862540.2	265.7	6.3	Development Services	Residential Review		FDX
-263.7	-52.6	16144	2178055	1558754.56	264.3	-6.1	Austin Resource Recovery	Other Requirements		LMT
-264.6	-78.9	110990	12741063	9127804.68	269.4	-16.6	Austin Resource Recovery	Recycling Collection		KLAC
-272.4	45.7	82738	901874	646242.34	271.5	-13.1	Mayor & Council	Mayor		BRK.A
-270.3	66.7	58522	307229	220691.74	269.6	0	Planning & Zoning	Annexation		FTI
-262.9	-63.1	159422	1643185	1182430.54	271.8	-13.4	Building Services	Facilities Security and Mail Services		DOV
-258.9	20.7	682084	10368415	7477524.11	270.4	-0.1	Austin Water	Process Engineering and Labs		MON
-268.8	82.7	435888	3870855	2792622.32	272.4	0	Parks & Recreation	Facility Services		AON
-258.5	-34	1341970	19776722	14276023.78	267.9	15.8	Austin Energy	Demand Side Management		FLS
-275.7	-24.8	290592	9067971	6546780.57	273.7	19.6	Austin Resource Recovery	Organics Collection and Processing		LLL
-266.2	-16.4	2018	7424820	5375195.54	273.9	0	Austin Public Health	Homeless		GILD
-278.4	2.1	86774	1837207	1332258.49	272	-13.1	Emergency Medical Services	Billing Services		HRB
-268.6	74.3	151350	1336319	970123.03	277.3	0	Planning & Zoning	Urban Design and Historic Preservation		TSO
-264.9	-70.7	14126	122344846	88887366.96	274.5	12.3	Human Resources	Employee PPO		LLTC
-279.6	-47.7	288574	8063311	5872327.64	279.9	-1.5	Development Services	Land Use Review		UTX
-280.9	75.1	123098	3676398	2690822.5	279.2	11.8	Police	Recruiting		AXP
-265.2	-29.9	42378	21301943	15594532.21	274.7	11.8	Austin Water	Other Requirements		PH
-274.3	-33.3	187674	1931236	1414520.32	284.3	13.1	Fire	"Air, Equipment and Vehicle Support"		CMI
-283.9	-60	415708	7286244	5340584.06	287.2	-12.2	Animal Services	Shelter Services		XYL
-271.8	-60.2	78702	469891	344479.61	280.6	-16.4	Mayor & Council	Place 08		PCAR
-276.2	-6.4	357186	5191717	3806265.49	279.1	0.6	Austin Resource Recovery	Operations Support Services		BDX
-280.9	-75.4	454050	4269958	3130493.6	279.8	-3.5	Watershed Protection	Water Quality Monitoring		ORCL
-292.1	48.8	58522	97007689	71211285.5	280.3	7.1	Austin Convention Center	Transfers		EMN
-269.3	14	565040	147463146	108495859.8	277	12.9	Austin Energy	Transmission Services		MAR
-272.4	23.4	54486	117437	86524.15	284.1	-1.7	Management Services	Agenda Preparation		ECL
-285	29.2	728498	7676369	5664421.44	280	-9.7	Austin Code	Case Investigation		BLL
-289.7	84.4	62558	949116	700608.63	282.5	0	Financial Services	Contract Services		CINF
-281.7	-17.1	106954	591699	437644.47	287.3	-29.4	Austin Water	Reclaimed Water Services Support		GIS
-295.7	53.4	1898938	16360099	12101922.43	287.4	6.5	Parks & Recreation	Grounds Maintenance		IFF
-293.6	-57.5	439924	6084928	4503943.9	288.3	14.6	Austin Resource Recovery	Litter Abatement		TXN
-282.8	-27.7	413690	20167756	14927884.02	288	-3.6	Austin Public Library	Circulation		CERN
-295.6	77.5	561004	4097150	3034474.63	290.5	5.4	Austin Public Health	Family Health		CB
-290.1	-12.2	1273358	29003660	21508153.91	291.1	5	Austin Water	Pipeline Water Operations		DVA
-302.8	69	117044	1539596	1144839.24	292.7	-5.4	Watershed Protection	Watershed Education		AFL
-285.6	14.7	744642	3437297	2556589.01	281.5	-1.9	Parks & Recreation	Athletics		CMCS.A
-286.7	-2.8	242160	3969971	2955294.32	279.8	-19.3	Austin Transportation	"Inspection, Review, and Support"		DTV
-292.5	67.7	70630	1008401	751141.87	293.6	0	Labor Relations Office	Labor Relations		CAM
-290.2	56.1	24216	866787	645873.59	293.9	0	Austin Transportation	Other Requirements		NFLX
-285.3	62.5	121080	1826774	1361672.51	292.3	0.7	Fire	Investigations		IVZ
-300.8	-5.6	795092	19006320	14169321.19	293.9	-16.6	Austin Water	Pipeline Wastewater Operations		TWX
-284.1	-35.8	643742	6924193	5165987.99	295.9	-1.3	Austin Water	Treatment O&M Support		VAR
-304.1	33.6	123098	15141314	11303101.86	295.1	20.8	Austin Resource Recovery	Trash Collection		PG
-297.8	60.4	2018	4207864	3142157.81	300.8	-0.7	Austin Public Health	Behavioral Health		MTB
-306.4	-58	1164386	33808508.59	25279311.48	299.8	0	Police	Patrol Support		PCP
-302.6	-37.4	310772	2873680	2149326.03	302.5	0	Austin Resource Recovery	Diversion Facilities		T
-296.6	-18.2	102918	567836	425714.75	300.6	-27.9	Management Services	Departmental Support Services		VFC
-289.8	-23.5	4036	12780916	9584669.42	301	4.5	Human Resources	Employee Dental		ABC
-306.8	-17.7	16144	16478723	12365614.25	303.9	-4.3	Communications & Technology Management	Transfers		CI
-302.2	52.5	165476	5809076	4364763.77	303.5	0	Emergency Medical Services	Emergency Communications		SIAL
-305.9	59.3	643742	7621179	5732165.7	304	0	Parks & Recreation	Departmental Support Services		DO
-304	10.3	510554	3749732	2827927.14	300.5	-1.9	Parks & Recreation	Nature Based Centers		NKE
-301.3	-70.9	240142	1654305	1250591.43	305.5	8.1	Watershed Protection	Master Planning		ACN
-321.7	-1.4	155386	1919185	1451392.7	315.2	-17.1	Police	Air Operations		PM
-329	25.2	355168	8103863	6157677.17	321.1	18.8	Law	"Transactional, Opinions, & Advice"		MCD
-309.4	-65.2	276466	1703730	1295648.42	308.4	-10.9	Planning & Zoning	Departmental Support Services		SNA
-326.5	-18.3	108972	718239	546399.76	309.4	3.2	Emergency Medical Services	Community Relations and Injury Prevention		ZMH
-316	16.3	44396	1419441	1080381.03	310.6	7	Small and Minority Business Resources	Compliance		ADM
-309.8	-12.4	155386	1539837	1173744.99	310.8	-32.7	Austin Convention Center	Event Planning and Coordination		FOSL
-316.6	-21	262340	2538295	1935573.07	315.3	-5.6	Fire	Outreach		COV
-309.6	72.8	1311700	7600660	5800701.18	315	-4.9	Parks & Recreation	Golf		GME
-319.9	-74.5	3652580	29272434	22351989.07	317.2	-6.5	Austin Water	Departmental Support Services		INTC
-310.4	52.5	274448	2990493	2287510.05	312.4	-0.4	Fire	Employee Safety and Wellness		NTRS
-314.3	-62.8	215926	1348155	1032828.15	313.6	-12.4	Austin Water	Environmental and Regulatory Services		PBI
-336	-14.2	42378	1445278	1109957.39	319.2	6.1	Austin Public Library	Cataloging Support		TMO
-323.9	68.1	284538	3420518	2628252.58	317.1	1.5	Austin Water	Pipeline O and M Support		ORLY
-321	-54.1	54486	132527157	101838708.9	315	-0.7	Nondepartmental	Transfers		MMM
-332.7	-63.8	468176	5670743	4362099.83	319	10.1	Austin Public Health	Health and Safety Code Compliance		YHOO
-344.3	-59.8	80720	468289	360332.12	320.2	-13.2	Mayor & Council	Place 02		ROP
-314	64.9	141260	1012633	779261.56	316.1	9.7	Fleet Services	Facility and System Management		BEN
-330	-34.4	179602	1953230	1503674.64	319.3	0	Austin Water	Infrastructure Management		MRK
-336.1	10.6	219962	7113769	5476588.32	319.4	1.2	Development Services	Building Inspection		K
-342.2	-2.5	131170	3059893	2357006.6	330.9	-4.2	Communications & Technology Management	Strategy and Planning		SBUX
-340.8	-22.6	250232	5431809	4190188.2	324.5	-1.9	Communications & Technology Management	Departmental Support Services		BCR
-336.7	-52	191710	4034513	3117948.56	324.7	11.8	Law	Civil Litigation & Criminal Prosecution		DE
-344.5	8.1	803164	14959100	11597208.25	327.2	6	Austin Public Library	Departmental Support Services		BWA
-347.4	-52	72648	806481	625256.85	326.6	-7.7	Development Services	Service Center		ROK
-318.1	78.1	90810	1169505	906811.23	323.1	-5.7	Planning & Zoning	Long Range Planning		APC
-327	84.3	24216	49080877	38098551.25	325.3	0	Watershed Protection	Transfers		UNM
-340.8	35.7	163458	2436425	1891628.05	325.6	0.3	Parks & Recreation	Forestry		PPG
-332	75.5	86774	1029516	799856.82	329	7	Watershed Protection	Data Management		HAL
-345.1	-43.1	157404	2476592	1925298.89	329.2	1.2	Austin Water	Systems Planning		WM
-344.4	26.6	859668	7744102	6020910.73	335.5	7	Austin Public Health	Departmental Support Services		RL
-335.7	-75.5	100900	2727777	2121923	329.5	0	Police	Victim Services		PEG
-328.7	50.4	86774	530402	412670.64	330.4	-5.2	Austin Public Health	Vital Records		JPM
-345.5	-77.7	88792	2795782	2177395.48	333.1	-3.9	Austin Resource Recovery	Bulk Collection		INTU
-353	-4.4	10090	17398726	13559698.78	341.3	0.5	Human Resources	Retiree With Medicare PPO		CMG
-343.6	-27.8	82738	483918	377656.78	335.8	-3.6	Mayor & Council	Place 10		PWR
-342.2	-68.4	976712	17734433	13854762.95	336.2	5.4	Fleet Services	Fleet Maintenance and Repair		AMAT
-346.2	43	324898	3185905	2493337.14	345.2	5.7	Public Works	Infrastructure Management		ICE
-354.3	21.5	177584	1877106.6	1470043.05	337.2	-0.8	Aviation	Grounds Maintenance		LYB
-342.9	66.7	82738	1655751	1297124.68	338.5	14.8	Municipal Court	Municipal Court Services		BLK
-342.2	17.9	980748	55162035	43282188.05	340.3	14.8	Emergency Medical Services	Emergency Field Operations		CPB
-344.8	49.3	16144	4822966	3784575	344.2	5.3	Municipal Court	Transfers		BMS
-350	-15.9	143278	2025195	1591664.3	343.3	-13.7	Human Resources	Total Rewards		CL
-345.4	-34.5	12108	3618673	2846056.41	343	0	Human Resources	Operations and Administration		TXT
-348.7	13	76684	2341766	1841924.78	344.2	7.6	Office of the City Auditor	Audit		PVH
-361.6	34.2	86774	482080	379287.27	345.3	-19.3	Mayor & Council	Place 01		SPLS
-729.2	-4.8	127134	668781	526381.4	744.5	8.8	Public Works	Surveying Services		LEN
-362.6	6.7	84756	694684	547841.8	348.7	0	Communications & Public Information	Web Development		CF
-349.7	-70.7	64576	532659	420403.71	346.5	-8.9	Municipal Court	Civil Parking Administration		FFIV
-359.4	-9.3	2792912	12735119	10063331.41	353.2	-7.4	Parks & Recreation	Community Recreation Services		WYN
-362.4	-15.8	250232	5674419	4488481.29	355.8	-15.2	Financial Services	Capital Contracting Services		MJN
-352.3	34.4	256286	17547220	13886705.34	351.2	-5.7	Police	Communications		COF
-363.5	54.5	811236	17883858	14161614.55	351.8	0	Police	Organized Crime		WMT
-351.9	-28.9	518626	12433971.47	9848948.46	351.8	0.3	Police	Training		AET
-357.3	-61.4	100900	320669	254370.11	354.4	0.1	Austin Public Health	"Inspection, Review, and Support"		MA
-369	31.5	540824	5291714	4198832.75	356.7	11.6	Emergency Medical Services	Departmental Support Services		STI
-358.3	12.5	474230	19702242	15635401.89	352.4	11.2	Police	Traffic Enforcement		LEG
-363.2	-51.6	266376	5498135	4368560.93	356.1	11.5	Austin Convention Center	Event Security and Safety		FLIR
-353.2	5.2	84756	1239310	986468.01	352.2	2.3	Financial Services	Accounts Payable		DISC.A
-352.3	-37.7	90810	1139064	908389.7	354	-7.4	Office of Real Estate Services	"Leasing, Property & Land Mgmt."		FLR
-356.1	-46.5	157404	5691411	4542463.98	356.7	2.2	Human Resources	Departmental Support Services		ITW
-361.4	-1.2	395528	8777961	7012010.66	354.9	18.3	Building Services	General Maintenance		BF.B
-360.9	-34.5	504500	4896452	3918692.32	361.6	-3.9	Human Resources	Workforce Planning and Support		SYK
-361.5	27.8	106954	3986175	3192456.15	352.9	4.2	Public Works	Engineering Services		NYX
-359.3	-24.3	409654	2486854	1994054.99	362.7	6.3	Parks & Recreation	Park Planning & Development		CAH
-369.3	-8.1	1341970	6504562.06	5217750.53	360.7	10	Parks & Recreation	Museums and Cultural Programs		JCI
-384.6	56.6	726480	15162857	12166853.8	368.5	12.9	Communications & Technology Management	Applications and Business Transformation Services		AZO
-371.8	-62	98882	15271391	12255911.36	363.6	-7.3	Economic Development	Global Business Recruitment and Expansion		GD
-373.7	-52.3	155386	3034994	2436164.18	364	9.4	Municipal Court	Customer Services		SWK
-369.6	17.9	439924	3422308	2753727.88	365.1	0.9	Austin Water	Special Services		GS
-367.5	-44.6	171530	2969343	2390441.41	369.7	-21.5	Building Services	Miscellaneous		
-368.6	-37.3	419744	1476884	1190942.74	362.6	-17.4	Austin Public Health	Neighborhood Services		WPO
-381.1	63.1	80720	2117922	1710837.78	364	-0.8	Office of Real Estate Services	Real Property Acquisition		NBR
-369.7	1.8	286556	2733009	2217589.25	367.5	0	Building Services	General Maintenance Support		NUE
-374.8	-25.2	64576	468482	380484.05	367.7	-4.9	Mayor & Council	Place 07		DIS
-376.5	-4.5	651814	14860108	12083293.78	369.6	-10.1	Economic Development	Cultural Development and Contracting Services		PBCT
-378.6	-10.5	20180	4497238	3660716.35	370.3	10	Austin Code	Transfers		HOG
-376.9	1.9	1180530	33104287	26963178.33	366.7	16.6	Austin Water	Treatment Wastewater Operations		FDO
-380.7	-42.8	250232	1340428	1091862.04	371	0	Austin Public Health	Epidemiology		BIIB
-384	-57.1	90810	1173113	957218.2	372.5	1.8	Emergency Medical Services	Mobile Integrated Healthcare & Community Health Paramedic		EMR
-388.6	10	54486	1682345	1373695.84	377.2	-7	Office of the City Clerk	Records and Information Management Services		DFS
-386.9	-33.4	131170	1047373	855556.82	373.2	0	Austin Public Health	Health Equity		DGX
-382.8	17.4	464140	8773631	7168575.97	377.5	5.4	Police	Special Operations		MCO
-389.6	-26.4	68612	224902920	183806474.2	379.2	-14.4	Austin Water	Interfund Transfers		SNI
-379.3	8.6	14126	650368	532032.84	374.6	17.4	Municipal Court	Court Technology		COH
-396.8	61	330952	7446068	6097798.83	375.6	0.5	Development Services	Site/Subdivision Inspection		OXY
-380	-67.7	50450	10486828	8590804.9	376.7	0	Austin Transportation	Transfers		PAYX
-386.6	-2.6	82738	467052	383001.66	381.5	7.3	Mayor & Council	Place 06		TGT
-398.4	-0.1	82738	469294	384887.62	383.6	19.3	Mayor & Council	Place 03		DG
-405.7	-0.3	226016	2376946	1951999.19	382	-0.1	Development Services	Community Tree Preservation		NDAQ
-399.1	49.7	121080	1956348	1609527.98	384.9	-6.4	Animal Services	Field Services		RDC
-378.8	36.9	153368	1286255	1058344.16	380.2	-6.7	Municipal Court	Court Operations		TJX
-389.7	45.7	1860596	37847678	31174729.09	379.2	7.3	Police	Centralized Investigations		WAG
-393.2	36.3	72648	467052	384856.66	388.9	9.9	Mayor & Council	Place 04		JCP
-393.1	-39.7	195746	4102305	3382249.79	382.3	0	Police	Internal Affairs		WLP
-389.6	-16.1	44396	5326216	4392619.83	385.2	-6	Austin Public Library	Collection Support		VIAB
-393.2	4.8	110990	1749291	1445027.03	385.1	0	Office of the Medical Director	Office of the Medical Director		CLF
-396.5	-8.4	102918	2103137	1744186.06	391.7	2.2	Public Works	School Crossing Guards		HRL
-378.2	26.9	581184	6896923	5720369.29	384	-15.9	Public Works	Routine Roadway & Alley Maintenance		TRIP
-390.5	-48.4	821326	10340465	8591483.52	386.1	2.4	Fire	Departmental Support Services		CHRW
-400.7	41.8	377366	1969329	1637702.83	388.7	0	Parks & Recreation	Park Ranger Programs		MUR
-402	-40.7	4036	-1635614	-1362642.35	389.7	-5	Human Resources	Expense Refunds		LH
-406	51.1	14126	11187712	9322972	389.2	0	Emergency Medical Services	Transfers		PGR
-389.1	27.3	4036	422650	352540	392.5	0.4	Office of the City Clerk	Transfers		COST
-400.1	-15.7	4036	323727	270107	395.5	-4.8	Office of Real Estate Services	Transfers		SJM
-395.9	17	14126	5215646	4352366	391.2	-11.9	Austin Public Library	Transfers		KR
-403.8	-46.6	14126	7875307	6573757	394.3	-9.4	Austin Public Health	Transfers		PDCO
-394.1	-54.5	16144	6245892	5213962	391.1	-2.8	Development Services	Transfers		JEC
-397.8	8.5	240142	1567757	1308832.92	399.4	-8.9	Austin Public Health	Community Engagement		KSS
-399.4	33.3	16144	21216246	17725487	395.6	11.9	Fire	Transfers		LTD
-397.8	-47.1	464140	134825259	112698576.3	395	2.9	Fire	Combat Operations		PLL
-405	-8.3	10090	1395638	1168018	394.8	0	Neighborhood Housing & Community Development	Transfers		TROW
-402	-28.3	197764	3020693	2529021.65	394.7	6.3	Austin Water	Facility Engineering		UNH
-402.2	-61.6	16144	50954198	42688255.34	395.7	0.8	Police	Transfers		HRS
-395.5	-61.6	52468	1076882	903222.53	398.3	0	Municipal Court	Central Booking		AES
-401.2	24.7	30270	251287644	210775464.3	402.6	6.6	Austin Energy	Interfund Transfers		ROST
-402.2	-53.9	252250	2004091	1682247.93	399.1	-4.2	Emergency Medical Services	Safety and Performance Management		GWW
-417.8	-24.3	108972	1214024	1020402.32	404.3	-6.8	Municipal Court	Central Booking Support		ESRX
-409	-59.3	157404	732538	616992.74	401.9	-2.5	Management Services	Innovation Office		CA
-407.8	-17.1	12108	1775043	1496243	401.4	4.7	Planning & Zoning	Transfers		BEAM
-403.7	5.3	48432	755486	637916.42	402.9	-2.3	Small and Minority Business Resources	Resource Services		URBN
-409.6	-52.5	34306	13806527	11662494.36	403.5	4.3	Public Works	Transfers		TSS
-411.2	5	4036	306731	259271	404.5	0.1	Mayor & Council	Transfers		FITB
-413.5	57.4	26234	10845618	9169098	406	0	Parks & Recreation	Transfers		MMC
-415.5	-11.4	102918	1319896	1117582.38	406.5	-3.4	Austin Transportation	Corridor Program Implementation		RAI
-415.2	-53.8	262340	1806850	1530429.81	408.1	0.8	Emergency Medical Services	Staff Development		MOLX
-415.4	11.4	28252	198902581	168511253.2	408.3	1.3	Austin Water	Debt Transfers		PETM
-411.6	-3.2	324898	3795887	3220863.32	409.8	5.3	Neighborhood Housing & Community Development	Departmental Support Services		TSN
-406.4	14.3	48432	918151	779403.92	407.9	-13.6	Small and Minority Business Resources	MBE/WBE Certification		APA
-424.7	-32.8	8072	7572573	6429304.26	411.4	14.1	Human Resources	Optional Coverage paid by Employee		EFX
-414.9	-41.3	68612	467052	398055.55	412.3	1.2	Mayor & Council	Place 05		UPS
-423.4	-8.4	30270	22431991	19141411.26	416.1	4.1	Austin Resource Recovery	Transfers		IGT
-428	-41.8	958550	129302403	110476185.8	416.1	-11.4	Police	Patrol		EXPD
-424.5	-14.9	4036	783882	670402	416.8	-2.7	Human Resources	Transfers		DLTR
-427.3	-51.8	334988	3181347	2720918.84	418.2	0	Municipal Court	Departmental Support Services		D
-431.9	-36.7	72648	584080	500349.39	421.5	-7.6	Watershed Protection	Stormwater Treatment		CTAS
-417.2	4.8	14126	1838707	1575243.41	418.1	-14	Animal Services	Transfers		WPX
-419.6	-2	195746	1646625	1411295.16	419.6	0	Public Works	Quality Management		MHP
-431.3	-29.6	4036	647680	556230	425.8	-1.8	Law	Transfers		RSG
-424.5	33.9	680066	3654152	3142581.13	422.7	8.7	Parks & Recreation	Parks Program Services		XOM
-437.5	-43.9	4036	2977317	2563741.15	427	-2.8	Austin Public Health	Workforce Development		ADP
-438.6	-33.6	18162	3905297	3369247	427.3	7.6	Building Services	Transfers		FISV
-425.6	7.2	119062	5517291	4765438.35	429.4	-17.1	Fire	Communications Section		NOV
-730.3	1.4	10090	950305	826635	738.1	2.1	Management Services	Transfers		LM
-435.5	-8.2	209872	2250689	1966001.2	427.6	-5	Municipal Court	Caseflow Management		BBY
-446.5	-46.4	520644	12986165	11436807.76	432.1	-5.2	Police	Specialized Patrol & Events Planning		RHI
-428.5	-3.3	365258	4698061	4141044.62	429.6	3.2	Watershed Protection	Storm Water Management		WFM
-437.7	-16.2	593292	13768668	12176788.32	432	-3.1	Austin Energy	Power Generation		LO
-431.4	-14.3	6054	2303994	2038457.92	430	-10.8	Human Resources	Optional Coverage paid by Retiree		ANF
-441.8	16.6	12108	41022	36493	431.5	11.5	Office of the Medical Director	Other Requirements		KMX
-429.9	-20.9	1467086	37500954	33450129.93	433.6	2.3	Austin Energy	Distribution Services		FAST
-444.1	-27.3	84756	353170	315774.16	437.3	4	Communications & Public Information	Media Relations		GPC
-444	-9.4	195746	1634875	1464308.85	433.8	-17.1	Management Services	Office of Homeland Security & Emergency Management		BBBY
-446.2	22.8	72648	789488	708126.84	437.7	7.2	Office of the City Auditor	Departmental Support Services		TIF
-428.1	-10.3	104936	281821	253154.29	439.7	0	Municipal Court	Community Service Restitution		PKI
-437	-24.6	258304	3462607	3124941.37	440.9	-0.8	Austin Transportation	Departmental Support Services		IRM
-440.3	3.7	12108	26663	24331	440.4	-5.3	Labor Relations Office	Other Requirements		CVS
-448.5	-37.1	191710	756855	697550.85	446.4	0	Management Services	Sustainability Office		AGN
-461	35.7	171530	1275475	1179862.87	453.4	-11	Economic Development	Departmental Support Services		CVX
-452.6	14.1	88792	631219	588331.03	448.6	8.8	Communications & Public Information	Departmental Support Services		LOW
-447.1	-18.5	54486	460547918	444605771	448.8	3.2	Enterprise Debt Service	Other Requirements		HSY
-452.1	-27.5	14126	298151	291844.56	446.7	-5.5	Human Resources	Retiree Without Medicare CDHP		DPS
-459.2	-35.9	28252	34598510	34177024.58	449.3	0	Austin Water	Miscellaneous		HUM
-459.5	-28.1	205836	4870711	4817468.11	454	-3.9	Fire	Engineering and Inspection Services		MNST
-456.6	-43.8	155386	2011630	2007653.63	456.6	0	Aviation	"Planning, Design and Construction"		PNR
-481.6	33.5	4036	113272	113272	459.5	14.2	Communications & Public Information	Transfers		GPS
-460.1	-4.1	2018	34890	34890	455.8	-2.7	Intergovernmental Relations	Transfers		BAC
-456.6	-20.4	4036	149734	149734	458.7	2.8	Office of the City Auditor	Transfers		CAG
-463.2	11.7	2018	2000000	2000000	454.1	-9.6	Planning & Zoning	Group Placeholder		JWN
-467.7	-21.5	4036	165026	165026	461.7	0	Small and Minority Business Resources	Transfers		DOW
-466.8	-32.4	4036	64280	64280	461.7	-5.3	Telecommunications & Regulatory Affairs	Transfers		CLX
-477.9	14.7	437906	11231952	11835469.06	465.9	-0.3	Fleet Services	Materials Control		HD
-479.5	-3.5	236106	1046426	1197316.96	471.8	8.2	Human Resources	Community Services		MS
-480.8	-30.9	357186	1763856	2237140.83	473.8	0.5	Austin Water	Wildland Conservation		NWSA
-478.6	-16.1	240142	744796	969888.03	474	-4.2	Watershed Protection	Surface/Ground Water and Endangered Salamander Protection		SCHW
-486	26.6	98882	516683	754977.69	482.1	10.5	Public Works	Architectural Services		CMA
-493.3	-32.2	391492	4910615	8574763.32	479.4	0	Financial Services	Procurement		CVH
-490	3.7	14126	148769	8305063.58	482.8	1.9	Aviation	Other Requirements		BBT
-491.3	29.2	2018	0	0	487.1	0	Austin Conv & Visitors Bureau	Transfers		AIZ
-502.4	10.9	4036	0	0	492.2	0.3	Austin Energy	Distribution		MO
-492.7	21.5	20180	0	0	493.2	-0.1	Austin Public Health	Public Health Preparedness		CME
-500.5	-33.9	4036	0	0	493.3	-1.9	Austin Transportation	Corridor Program Management		FIS
-499.1	-14.6	34306	0	0	494.7	0	Communications & Technology Management	CTM IT Replacement		PFE
-506.9	-31	2018	0	0	495.5	4.7	Development Services	Technology Surcharge		SAI
-500.9	23.1	2018	0	0	498.4	0	Economic Development	Heritage Tourism		SWY
-513	20.5	4036	0	0	500.1	0	Emergency Medical Services	Miscellaneous		NEM
-507	28.9	159422	0	217503.25	502.2	0	Financial Services	Cash and Investment Management		BHI
-512.6	0.8	72648	0	42041.53	506.4	-1.3	Financial Services	Debt Management		SYY
-513.4	8	80720	0	0	512.2	3.3	Financial Services	Capital Planning		APOL
-525.1	-9.8	2018	0	-2882.23	513.3	0	Fire	Miscellaneous		V
-538.4	-0.7	2018	0	0	535.7	0	Labor Relations Office	Transfers		NOC
-535.5	7.4	20180	0	0	536.3	0	Management Services	Miscellaneous		AA
-546.2	2.8	6054	0	-0.1	547.6	0	Municipal Court	Miscellaneous		AVP
-552.6	-1.7	2018	0	0	551.6	0	Neighborhood Housing & Community Development	Small Business Assistance		LIFE
-591.3	9.4	2018	0	0	592.6	0	Office of the Medical Director	Transfers		HES
-590.9	-9.3	36324	0	0	593.4	0	Parks & Recreation	Tanglewood Neighborhood Park - Pavilion		SNDK
-597.7	-0.9	2018	0	0	595.3	0	Planning & Zoning	Miscellaneous		BK
-607.5	-8.7	6054	0	0	607.2	-9.1	Planning & Zoning	PLAN - ADMINSTRATION		STZ
-612.3	2.1	2018	0	0	612.5	1.4	Planning & Zoning	PLAN - DATA DEVELOPMENT & MAINT		MDLZ
-645.3	0.2	2018	0	0	645.4	0	Planning & Zoning	PLAN - LONG RANGE PLAN (MTP)		OI
-669	6	2018	0	0	671	0	Planning & Zoning	PLAN - SHORT RANGE PLANNING		MRO
-692.1	-14.2	2018	0	0	690	-3.9	Planning & Zoning	RTCC		ACT
+cx	cy	capitalization	earnings	taxes	x	y	sector	name	alias	symbol	
+201.4	24.5	4011784	98753.75	66087482.41	218.1	0	Austin Energy	Departmental Support Services		IPG	
+319.9	-74.5	3652580	29272.434	22351989.07	317.2	-6.5	Austin Water	Departmental Support Services		INTC	
+359.4	-9.3	2792912	12735.119	10063331.41	353.2	-7.4	Parks & Recreation	Community Recreation Services		WYN	
+192.8	2.6	2350970	45923.05	30436934.94	207.7	0	Austin Energy	Power Delivery Support		CTL	
+295.7	53.4	1898938	16360.099	12101922.43	287.4	6.5	Parks & Recreation	Grounds Maintenance		IFF	
+389.7	45.7	1860596	37847.678	31174729.09	379.2	7.3	Police	Centralized Investigations		WAG	
+225.9	48.9	1602292	12682.417	8663172.91	226	-12.3	Public Works	Departmental Support Services		BTU	
+429.9	-20.9	1467086	37500.954	33450129.93	433.6	2.3	Austin Energy	Distribution Services		FAST	
+258.5	-34	1341970	19776.722	14276023.78	267.9	15.8	Austin Energy	Demand Side Management		FLS	
+369.3	-8.1	1341970	6504.56206	5217750.53	360.7	10	Parks & Recreation	Museums and Cultural Programs		JCI	
+309.6	72.8	1311700	7600.66	5800701.18	315	-4.9	Parks & Recreation	Golf		GME	
+290.1	-12.2	1273358	29003.66	21508153.91	291.1	5	Austin Water	Pipeline Water Operations		DVA	
+219.9	-23.3	1241070	20036.744	13721944.45	227.3	2.9	Austin Energy	Customer Contact Center		UNP	
+376.9	1.9	1180530	33104.287	26963178.33	366.7	16.6	Austin Water	Treatment Wastewater Operations		FDO	
+306.4	-58	1164386	33808.50859	25279311.48	299.8	0	Police	Patrol Support		PCP	
+250.8	-42.8	1089720	32917.712	23193932.72	251.9	1.6	Austin Water	Treatment Water Operations		HON	
+736.2	-4.6	1079630	17913.466	12124717.35	742.2	-4.5	Police	Departmental Support Services		DHI	
+97.3	15.6	1000928	24311.414	12708887.77	99	0.3	Aviation	Departmental Support Services		TAP	
+342.2	17.9	980748	55162.035	43282188.05	340.3	14.8	Emergency Medical Services	Emergency Field Operations		CPB	
+342.2	-68.4	976712	17734.433	13854762.95	336.2	5.4	Fleet Services	Fleet Maintenance and Repair		AMAT	
+428	-41.8	958550	129302.403	110476185.8	416.1	-11.4	Police	Patrol		EXPD	
+199.1	35.6	900028	15591.228	10144325.1	200.3	0	Austin Energy	Billing and Revenue Measurement		AMP	
+210.3	32.1	898010	11307.006	7549912.64	215.7	0	Austin Resource Recovery	Departmental Support Services		DD	
+344.4	26.6	859668	7744.102	6020910.73	335.5	7	Austin Public Health	Departmental Support Services		RL	
+390.5	-48.4	821326	10340.465	8591483.52	386.1	2.4	Fire	Departmental Support Services		CHRW	
+168.4	-32.9	817290	31555.718	19710429.54	177.3	2.8	Communications & Technology Management	Infrastructure		BMC	
+363.5	54.5	811236	17883.858	14161614.55	351.8	0	Police	Organized Crime		WMT	
+344.5	8.1	803164	14959.1	11597208.25	327.2	6	Austin Public Library	Departmental Support Services		BWA	
+300.8	-5.6	795092	19006.32	14169321.19	293.9	-16.6	Austin Water	Pipeline Wastewater Operations		TWX	
+285.6	14.7	744642	3437.297	2556589.01	281.5	-1.9	Parks & Recreation	Athletics		CMCS.A	
+285	29.2	728498	7676.369	5664421.44	280	-9.7	Austin Code	Case Investigation		BLL	
+384.6	56.6	726480	15162.857	12166853.8	368.5	12.9	Communications & Technology Management	Applications and Business Transformation Services		AZO	
+125.8	13.6	688138	11895.52	6680824.08	128.5	0	Communications & Technology Management	Wireless Infrastructure and Public Safety		GRMN	
+258.9	20.7	682084	10368.415	7477524.11	270.4	-0.1	Austin Water	Process Engineering and Labs		MON	
+424.5	33.9	680066	3654.152	3142581.13	422.7	8.7	Parks & Recreation	Parks Program Services		XOM	
+197.1	-57.9	674012	10225.969	6698904.86	210.1	-20.5	Police	Forensics Science Services		ADBE	
+147.7	-24.9	657868	6876.042	4194162.36	157.9	13.4	Watershed Protection	Departmental Support Services		ADSK	
+376.5	-4.5	651814	14860.108	12083293.78	369.6	-10.1	Economic Development	Cultural Development and Contracting Services		PBCT	
+305.9	59.3	643742	7621.179	5732165.7	304	0	Parks & Recreation	Departmental Support Services		DO	
+284.1	-35.8	643742	6924.193	5165987.99	295.9	-1.3	Austin Water	Treatment O&M Support		VAR	
+259.7	86.7	625580	8122.255	5744597.27	254.8	0	Parks & Recreation	Aquatics		L	
+437.7	-16.2	593292	13768.668	12176788.32	432	-3.1	Austin Energy	Power Generation		LO	
+378.2	26.9	581184	6896.923	5720369.29	384	-15.9	Public Works	Routine Roadway & Alley Maintenance		TRIP	
+213.5	-40.2	567058	19996.821	13480534.96	225.5	10.4	Austin Convention Center	Facilities Operations		EBAY	
+269.3	14	565040	147463.146	108495859.8	277	12.9	Austin Energy	Transmission Services		MAR	
+212.4	60.3	563022	9558.09	6439796.53	219.6	-10.7	Watershed Protection	Field Operations Management		CNX	
+295.6	77.5	561004	4097.15	3034474.63	290.5	5.4	Austin Public Health	Family Health		CB	
+369	31.5	540824	5291.714	4198832.75	356.7	11.6	Emergency Medical Services	Departmental Support Services		STI	
+446.5	-46.4	520644	12986.165	11436807.76	432.1	-5.2	Police	Specialized Patrol & Events Planning		RHI	
+351.9	-28.9	518626	12433.97147	9848948.46	351.8	0.3	Police	Training		AET	
+205.9	54.7	518626	8950.904	5842938.14	203.7	4.6	Austin Convention Center	Departmental Support Services		ESV	
+202.5	65	518626	7150.278	4743982.24	209.4	-6.5	Watershed Protection	Drainage Pipeline Management		TRV	
+134.7	20.8	512572	10939.589	6594749.93	148.6	3.8	Development Services	Departmental Support Services		BAX	
+304	10.3	510554	3749.732	2827927.14	300.5	-1.9	Parks & Recreation	Nature Based Centers		NKE	
+360.9	-34.5	504500	4896.452	3918692.32	361.6	-3.9	Human Resources	Workforce Planning and Support		SYK	
+180.8	59.3	504500	3850.132	2440691.85	187.7	-2.8	Management Services	City Management		PFG	
+118.5	-22.5	492392	4248.439	2287209.06	116.1	0	Austin Convention Center	Utility and Technology Services		GAS	
+213.5	-61.6	484320	3529.714	2398537.01	223.4	-10.1	Public Works	Off-Street R-O-W Maintenance	Qualcomm Incorporated	QCOM	
+217.2	40.6	476248	7988.344	5541253.95	238.3	15.1	Austin Transportation	Parking Management		WHR	
+358.3	12.5	474230	19702.242	15635401.89	352.4	11.2	Police	Traffic Enforcement		LEG	
+332.7	-63.8	468176	5670.743	4362099.83	319	10.1	Austin Public Health	Health and Safety Code Compliance		YHOO	
+397.8	-47.1	464140	134825.259	112698576.3	395	2.9	Fire	Combat Operations		PLL	
+382.8	17.4	464140	8773.631	7168575.97	377.5	5.4	Police	Special Operations		MCO	
+228.3	-63.7	456068	4694.867	3258993.2	237	4.9	Watershed Protection	Flood Safety		WU	
+184.2	52.8	454050	5811.319	3649288.88	188.9	-1.4	Austin Code	Departmental Support Services		ARG	
+280.9	-75.4	454050	4269.958	3130493.6	279.8	-3.5	Watershed Protection	Water Quality Monitoring		ORCL	
+232.6	-49.5	452032	3291.908	2301063.06	244.6	17.5	Austin Convention Center	Parking Management		CSCO	
+293.6	-57.5	439924	6084.928	4503943.9	288.3	14.6	Austin Resource Recovery	Litter Abatement		TXN	
+369.6	17.9	439924	3422.308	2753727.88	365.1	0.9	Austin Water	Special Services		GS	
+477.9	14.7	437906	11231.952	11835469.06	465.9	-0.3	Fleet Services	Materials Control		HD	
+268.8	82.7	435888	3870.855	2792622.32	272.4	0	Parks & Recreation	Facility Services		AON	
+368.6	-37.3	419744	1476.884	1190942.74	362.6	-17.4	Austin Public Health	Neighborhood Services		WPO	
+283.9	-60	415708	7286.244	5340584.06	287.2	-12.2	Animal Services	Shelter Services		XYL	
+282.8	-27.7	413690	20167.756	14927884.02	288	-3.6	Austin Public Library	Circulation		CERN	
+208.4	-17.9	409654	17854.847	11549099.76	200.4	-6.8	Communications & Technology Management	CTECC Infrastructure and Public Safety		LUV	
+359.3	-24.3	409654	2486.854	1994054.99	362.7	6.3	Parks & Recreation	Park Planning & Development		CAH	
+141.9	1.2	409654	2362.873	1438234.09	159.3	0	Austin Code	Licensing & Registration Compliance		CSX	
+111.1	14.3	399564	13791.8	7510960.05	121.4	0	Police	Strategic Support		IP	
+361.4	-1.2	395528	8777.961	7012010.66	354.9	18.3	Building Services	General Maintenance		BF.B	
+493.3	-32.2	391492	4910.615	8574763.32	479.4	0	Financial Services	Procurement		CVH	
+233.7	80	389474	4699.518	3218695.13	228.8	0	Austin Water	Utility Development Services		PRU	
+400.7	41.8	377366	1969.329	1637702.83	388.7	0	Parks & Recreation	Park Ranger Programs		MUR	
+248.4	39.9	371312	4456.308	3134558.18	249	-4.8	Austin Public Health	Community Health		MOS	
+120.4	21.8	369294	12670.248	7185489.14	133.3	-5.6	Public Works	Utility Excavation Repair		EOG	
+194.5	54.2	365258	6486.467	4183049.67	195.5	-3.4	Aviation	Operations		PSX	
+428.5	-3.3	365258	4698.061	4141044.62	429.6	3.2	Watershed Protection	Storm Water Management		WFM	
+276.2	-6.4	357186	5191.717	3806265.49	279.1	0.6	Austin Resource Recovery	Operations Support Services		BDX	
+480.8	-30.9	357186	1763.856	2237140.83	473.8	0.5	Austin Water	Wildland Conservation		NWSA	
+329	25.2	355168	8103.863	6157677.17	321.1	18.8	Law	"Transactional, Opinions, & Advice"		MCD	
+185.6	39.8	339024	4615.69	2877793.07	182.2	8.5	Fire	Education Services		AMGN	
+427.3	-51.8	334988	3181.347	2720918.84	418.2	0	Municipal Court	Departmental Support Services		D	
+396.8	61	330952	7446.068	6097798.83	375.6	0.5	Development Services	Site/Subdivision Inspection		OXY	
+250.9	-0.9	328934	12069.524	8545875.66	258.9	1.8	Aviation	Airport Security		ISRG	
+411.6	-3.2	324898	3795.887	3220863.32	409.8	5.3	Neighborhood Housing & Community Development	Departmental Support Services		TSN	
+346.2	43	324898	3185.905	2493337.14	345.2	5.7	Public Works	Infrastructure Management		ICE	
+109.7	23.1	316826	6662.397	3552779.73	105.3	0	Public Works	Seal Coat & Other Thin Surface Treatments		LNC	
+302.6	-37.4	310772	2873.68	2149326.03	302.5	0	Austin Resource Recovery	Diversion Facilities		T	
+211.2	75.3	308754	4342.425	2865069.88	208.2	6.8	Austin Public Health	Communicable Disease		MET	
+54.4	12.2	298664	5036.241	2150700.77	58.7	3.9	Economic Development	Small Business Program		KIM	
+178.2	68.5	298664	2308.289	1427759.09	178.7	0.3	Fire	"Inspection, Review, and Support"		ALL	
+255.3	32.5	292610	8629.884	6053783.31	247.9	16.7	Financial Services	Accounting and Reporting		OMC	
+275.7	-24.8	290592	9067.971	6546780.57	273.7	19.6	Austin Resource Recovery	Organics Collection and Processing		LLL	
+80.3	24.8	290592	3802.925	1820625.16	80.2	0	Austin Water	Distribution System Engineering		PXD	
+279.6	-47.7	288574	8063.311	5872327.64	279.9	-1.5	Development Services	Land Use Review		UTX	
+369.7	1.8	286556	2733.009	2217589.25	367.5	0	Building Services	General Maintenance Support		NUE	
+323.9	68.1	284538	3420.518	2628252.58	317.1	1.5	Austin Water	Pipeline O and M Support		ORLY	
+309.4	-65.2	276466	1703.73	1295648.42	308.4	-10.9	Planning & Zoning	Departmental Support Services		SNA	
+124.4	-17.1	274448	4280.531	2438431.35	131.1	6.7	Building Services	Departmental Support Services		PPL	
+310.4	52.5	274448	2990.493	2287510.05	312.4	-0.4	Fire	Employee Safety and Wellness		NTRS	
+229.9	-33.5	268394	3220.495	2209048.68	229.5	24.5	Fleet Services	Departmental Support Services		CTSH	
+237.7	49.9	268394	2097.521	1453322.17	238.7	-2.6	Human Resources	Risk Management		USB	
+363.2	-51.6	266376	5498.135	4368560.93	356.1	11.5	Austin Convention Center	Event Security and Safety		FLIR	
+113.7	-17.4	264358	6174.538	3328004.65	115.7	-2.9	Public Works	Concrete Repair & Construction		XRX	
+152.1	60.6	264358	1792.896	1094236.82	168.9	0	Austin Resource Recovery	Remediation		MWV	
+316.6	-21	262340	2538.295	1935573.07	315.3	-5.6	Fire	Outreach		COV	
+415.2	-53.8	262340	1806.85	1530429.81	408.1	0.8	Emergency Medical Services	Staff Development		MOLX	
+437	-24.6	258304	3462.607	3124941.37	440.9	-0.8	Austin Transportation	Departmental Support Services		IRM	
+116.7	3.1	258304	2063.892	1117236.83	120.9	3.6	Fleet Services	Vehicle Life Cycle Management		CTXS	
+352.3	34.4	256286	17547.22	13886705.34	351.2	-5.7	Police	Communications		COF	
+249	10.1	256286	2192.04	1529809.93	241.8	-17.2	Police	Community Partnerships		YUM	
+245.3	-73.9	252250	3352.493	2361106.31	251	-9.1	Financial Services	Budget		MSFT	
+402.2	-53.9	252250	2004.091	1682247.93	399.1	-4.2	Emergency Medical Services	Safety and Performance Management		GWW	
+362.4	-15.8	250232	5674.419	4488481.29	355.8	-15.2	Financial Services	Capital Contracting Services		MJN	
+340.8	-22.6	250232	5431.809	4190188.2	324.5	-1.9	Communications & Technology Management	Departmental Support Services		BCR	
+380.7	-42.8	250232	1340.428	1091862.04	371	0	Austin Public Health	Epidemiology		BIIB	
+286.7	-2.8	242160	3969.971	2955294.32	279.8	-19.3	Austin Transportation	"Inspection, Review, and Support"		DTV	
+100.1	-7.7	240142	9195.403	4822539.23	99.1	0	Austin Transportation	Arterial Management		VZ	
+301.3	-70.9	240142	1654.305	1250591.43	305.5	8.1	Watershed Protection	Master Planning		ACN	
+397.8	8.5	240142	1567.757	1308832.92	399.4	-8.9	Austin Public Health	Community Engagement		KSS	
+478.6	-16.1	240142	744.796	969888.03	474	-4.2	Watershed Protection	Surface/Ground Water and Endangered Salamander Protection		SCHW	
+124.7	6.8	238124	2628.459	1510114.13	134.9	0	Human Resources	Employee and Labor Relations		FTR	
+479.5	-3.5	236106	1046.426	1197316.96	471.8	8.2	Human Resources	Community Services		MS	
+-0.2	16.1	232070	1820.32868	178043.16	4.7	2.7	Parks & Recreation	Miscellaneous		RRC	
+32.4	0.7	232070	295	88982.86	34.9	0	Neighborhood Housing & Community Development	Homeowner Assistance		BRCM	
+3.6	-15.3	228034	5406.41	788970.24	4.4	-2.5	Neighborhood Housing & Community Development	Housing Developer Assistance		NEE	
+241.3	-26.5	226016	6714.08	4663918.75	239.3	-9.1	Austin Convention Center	Event Set-Up Operations		CAT	
+405.7	-0.3	226016	2376.946	1951999.19	382	-0.1	Development Services	Community Tree Preservation		NDAQ	
+336.1	10.6	219962	7113.769	5476588.32	319.4	1.2	Development Services	Building Inspection		K	
+740.7	-9.9	219962	1307.366	921521.53	740.3	3.2	Telecommunications & Regulatory Affairs	Regulatory Affairs		PHM	
+142.9	11.4	217944	14904.132	9015801.7	153.5	-6.6	Aviation	Building Maintenance		A	
+109.2	5.6	217944	2697.729	1448035.01	111.3	0	Austin Resource Recovery	Strategic Initiatives		WAT	
+314.3	-62.8	215926	1348.155	1032828.15	313.6	-12.4	Austin Water	Environmental and Regulatory Services		PBI	
+435.5	-8.2	209872	2250.689	1966001.2	427.6	-5	Municipal Court	Caseflow Management		BBY	
+144.7	-14.1	207854	11020.819	6652222.96	142.6	6.6	Public Works	Asphalt Overlay		VRSN	
+459.5	-28.1	205836	4870.711	4817468.11	454	-3.9	Fire	Engineering and Inspection Services		MNST	
+146.7	-19.5	205836	2340.01	1416897.74	152.4	11.1	Fleet Services	Fleet Programs		FSLR	
+223.4	-34.1	199782	2500.21	1702268.67	226	-8.4	Development Services	Development Assistance Center		DNB	
+197.1	73.7	199782	1725.661	1114083.67	195.9	7.4	Austin Transportation	Transportation Systems Development		NE	
+402	-28.3	197764	3020.693	2529021.65	394.7	6.3	Austin Water	Facility Engineering		UNH	
+393.1	-39.7	195746	4102.305	3382249.79	382.3	0	Police	Internal Affairs		WLP	
+419.6	-2	195746	1646.625	1411295.16	419.6	0	Public Works	Quality Management		MHP	
+444	-9.4	195746	1634.875	1464308.85	433.8	-17.1	Management Services	Office of Homeland Security & Emergency Management		BBBY	
+336.7	-52	191710	4034.513	3117948.56	324.7	11.8	Law	Civil Litigation & Criminal Prosecution		DE	
+448.5	-37.1	191710	756.855	697550.85	446.4	0	Management Services	Sustainability Office		AGN	
+216.3	51	189692	6119.384	4100973.68	218.8	0	Austin Water	Collection System Engineering		PCLN	
+134	-31.8	187674	5104.39	3048537.83	150.2	8.3	Development Services	Commercial Building Plan Review		NI	
+274.3	-33.3	187674	1931.236	1414520.32	284.3	13.1	Fire	"Air, Equipment and Vehicle Support"		CMI	
+153.5	6.6	185656	12246.995	7613388.64	178.4	-17.4	Aviation	Parking		DHR	
+248.4	88.9	185656	1866.645	1313516.54	248.5	0	Austin Water	Public Affairs		NBL	
+261.4	5.8	183638	9584.546	6820577.14	262.8	2.6	Austin Convention Center	Event Sales and Contracting		KMB	
+206.8	22.1	183638	2271.987	1495525.66	208.2	-0.3	Economic Development	Redevelopment Services		DRI	
+87.3	16.1	179602	5958.252	3036974	86.8	2.9	Austin Transportation	Signs and Markings		AMT	
+187.6	-37.9	179602	2419.5606	1566358.94	196.2	-3.4	Aviation	Airside Maintenance		GOOG	
+330	-34.4	179602	1953.23	1503674.64	319.3	0	Austin Water	Infrastructure Management		MRK	
+167.1	68.5	179602	1021.596	625138.16	172.6	5.8	Communications & Public Information	Community Engagement		HP	
+354.3	21.5	177584	1877.1066	1470043.05	337.2	-0.8	Aviation	Grounds Maintenance		LYB	
+93.8	7.9	171530	11184.618	5724175.96	91	-0.1	Austin Water	Other Utility Program Requirements		HOT	
+367.5	-44.6	171530	2969.343	2390441.41	369.7	-21.5	Building Services	Miscellaneous			
+461	35.7	171530	1275.475	1179862.87	453.4	-11	Economic Development	Departmental Support Services		CVX	
+47.6	17.1	169512	6390.2	2382979.78	46.2	0	Austin Transportation	Transportation Engineering		COG	
+230	-0.7	169512	2518.829	1739545.38	238.9	6.4	Parks & Recreation	Cemetery Operations		JNJ	
+302.2	52.5	165476	5809.076	4364763.77	303.5	0	Emergency Medical Services	Emergency Communications		SIAL	
+340.8	35.7	163458	2436.425	1891628.05	325.6	0.3	Parks & Recreation	Forestry		PPG	
+70.8	-16.5	161440	1871.189	872656.01	75.1	0	Financial Services	Office of the Chief Financial Officer		NTAP	
+198.3	-16.6	161440	426.956	285053.23	210.1	16.1	Austin Public Library	Miscellaneous		HPQ	
+262.9	-63.1	159422	1643.185	1182430.54	271.8	-13.4	Building Services	Facilities Security and Mail Services		DOV	
+239.2	25.4	159422	998.037	698531.28	244.1	0.7	Watershed Protection	Watershed Management		PEP	
+507	28.9	159422	0	217503.25	502.2	0	Financial Services	Cash and Investment Management		BHI	
+356.1	-46.5	157404	5691.411	4542463.98	356.7	2.2	Human Resources	Departmental Support Services		ITW	
+345.1	-43.1	157404	2476.592	1925298.89	329.2	1.2	Austin Water	Systems Planning		WM	
+127	32.5	157404	2146.663	1232585.13	133.8	7	Aviation	MaxAdmin		MPC	
+409	-59.3	157404	732.538	616992.74	401.9	-2.5	Management Services	Innovation Office		CA	
+373.7	-52.3	155386	3034.994	2436164.18	364	9.4	Municipal Court	Customer Services		SWK	
+456.6	-43.8	155386	2011.63	2007653.63	456.6	0	Aviation	"Planning, Design and Construction"		PNR	
+321.7	-1.4	155386	1919.185	1451392.7	315.2	-17.1	Police	Air Operations		PM	
+309.8	-12.4	155386	1539.837	1173744.99	310.8	-32.7	Austin Convention Center	Event Planning and Coordination		FOSL	
+146.3	-7.7	153368	15094.225	9112898.32	147.2	11.4	Fleet Services	Fuel Management		AKAM	
+271.4	0.2	153368	8197.869	5856310.46	269.4	10.6	Aviation	Facility Services		NWL	
+205.7	-2.6	153368	5000	3381288.2	219.4	-8.3	Law	Miscellaneous		LLY	
+378.8	36.9	153368	1286.255	1058344.16	380.2	-6.7	Municipal Court	Court Operations		TJX	
+249.7	-13.4	153368	1166.324	812835.66	244.7	-16.4	Watershed Protection	Stream Restoration		CELG	
+268.6	74.3	151350	1336.319	970123.03	277.3	0	Planning & Zoning	Urban Design and Historic Preservation		TSO	
+94.8	-24.7	147314	1491.839	772501.42	94.9	0	Austin Transportation	Active Transportation and Street Design		GLW	
+102.3	9.2	147314	1159.532	618289.7	107.1	-0.1	Management Services	Police Oversight Monitoring		DLPH	
+350	-15.9	143278	2025.195	1591664.3	343.3	-13.7	Human Resources	Total Rewards		CL	
+206.4	-26.7	141260	6851.369	4594740.56	218.3	-7.7	Public Works	Construction Services		RTN	
+314	64.9	141260	1012.633	779261.56	316.1	9.7	Fleet Services	Facility and System Management		BEN	
+85.8	5	139242	982.583	501111.15	90.4	-7.1	Planning & Zoning	Code Management		HST	
+78.7	-6.1	135206	1547.5238	772936.98	80.5	0	Aviation	Mechanic Shop		BA	
+266.5	-3.9	133188	1718.017	1226931	267.4	-7.2	Watershed Protection	Pollution Prevention and Reduction		CCE	
+201.5	30.2	133188	504.165	328274.34	201.4	0	Public Works	Safety Education		ATI	
+342.2	-2.5	131170	3059.893	2357006.6	330.9	-4.2	Communications & Technology Management	Strategy and Planning		SBUX	
+386.9	-33.4	131170	1047.373	855556.82	373.2	0	Austin Public Health	Health Equity		DGX	
+219.1	34.3	127134	3991.744	2718687.69	224.2	5.5	Austin Water	Water Conservation		HAS	
+176.3	50.9	127134	1504.92	933245.23	180	0	Office of the City Clerk	Departmental Support Services		APD	
+729.2	-4.8	127134	668.781	526381.4	744.5	8.8	Public Works	Surveying Services		LEN	
+251.1	69.1	125116	6728.967	4770251.77	255.3	13.9	Public Works	Project Management		WFC	
+304.1	33.6	123098	15141.314	11303101.86	295.1	20.8	Austin Resource Recovery	Trash Collection		PG	
+280.9	75.1	123098	3676.398	2690822.5	279.2	11.8	Police	Recruiting		AXP	
+205.5	44.5	123098	1136.908	755737.89	212.3	0	Public Works	Crack Seal Resurfacing		STT	
+399.1	49.7	121080	1956.348	1609527.98	384.9	-6.4	Animal Services	Field Services		RDC	
+285.3	62.5	121080	1826.774	1361672.51	292.3	0.7	Fire	Investigations		IVZ	
+425.6	7.2	119062	5517.291	4765438.35	429.4	-17.1	Fire	Communications Section		NOV	
+185.4	-15.6	119062	3554.86	2292095.8	197	18.9	Aviation	Airline Maintenance		CRM	
+302.8	69	117044	1539.596	1144839.24	292.7	-5.4	Watershed Protection	Watershed Education		AFL	
+41.3	2.6	113008	3907.621	1446746.1	44.4	0	Austin Energy	311 City-Wide Call Center		ALTR	
+212.2	7.7	113008	696.548	464513.25	212.2	2	Small and Minority Business Resources	Departmental Support Services		FRX	
+264.6	-78.9	110990	12741.063	9127804.68	269.4	-16.6	Austin Resource Recovery	Recycling Collection		KLAC	
+393.2	4.8	110990	1749.291	1445027.03	385.1	0	Office of the Medical Director	Office of the Medical Director		CLF	
+417.8	-24.3	108972	1214.024	1020402.32	404.3	-6.8	Municipal Court	Central Booking Support		ESRX	
+735.5	1.1	108972	1172.402	560353.71	736.6	-9.7	Animal Services	Departmental Support Services		ETFC	
+326.5	-18.3	108972	718.239	546399.76	309.4	3.2	Emergency Medical Services	Community Relations and Injury Prevention		ZMH	
+224.8	-72.6	108972	536.646	366991.58	234.4	-21.4	Planning & Zoning	Neighborhood Involvement and Implementation		ADI	
+361.5	27.8	106954	3986.175	3192456.15	352.9	4.2	Public Works	Engineering Services		NYX	
+281.7	-17.1	106954	591.699	437644.47	287.3	-29.4	Austin Water	Reclaimed Water Services Support		GIS	
+254.4	-56.3	104936	853.679	606473.52	255.1	-10.1	Public Works	Sidewalk Program		SRCL	
+428.1	-10.3	104936	281.821	253154.29	439.7	0	Municipal Court	Community Service Restitution		PKI	
+396.5	-8.4	102918	2103.137	1744186.06	391.7	2.2	Public Works	School Crossing Guards		HRL	
+415.5	-11.4	102918	1319.896	1117582.38	406.5	-3.4	Austin Transportation	Corridor Program Implementation		RAI	
+171.8	-62.3	102918	1023.237	623727.41	161.7	0	Law	Departmental Support Services		SCG	
+296.6	-18.2	102918	567.836	425714.75	300.6	-27.9	Management Services	Departmental Support Services		VFC	
+335.7	-75.5	100900	2727.777	2121923	329.5	0	Police	Victim Services		PEG	
+176	-55.6	100900	1606.714	988406	174.5	0	Office of Real Estate Services	Departmental Support Services		NU	
+357.3	-61.4	100900	320.669	254370.11	354.4	0.1	Austin Public Health	"Inspection, Review, and Support"		MA	
+371.8	-62	98882	15271.391	12255911.36	363.6	-7.3	Economic Development	Global Business Recruitment and Expansion		GD	
+486	26.6	98882	516.683	754977.69	482.1	10.5	Public Works	Architectural Services		CMA	
+193.6	27	96864	1693.655	1100938.11	199.4	-0.1	Aviation	Airport Environmental Affairs		HNZ	
+251.3	49.5	96864	1426.113	1005579.72	251.8	5.4	Austin Public Library	Austin History Center		SHW	
+63.4	-17.9	94846	1422	629335.54	64.5	2.5	Public Works	Bridge Maintenance		PNW	
+103.7	19.2	94846	240.5	125309.77	98.2	0	Animal Services	Miscellaneous		FMC	
+189.9	66.7	90810	1824.041	1184045.37	197.7	-1.4	Austin Public Library	Reference and Information Services		ACE	
+160.1	63.6	90810	1349.193	824672.45	168.7	-1.8	Economic Development	Music and Entertainment		SE	
+384	-57.1	90810	1173.113	957218.2	372.5	1.8	Emergency Medical Services	Mobile Integrated Healthcare & Community Health Paramedic		EMR	
+318.1	78.1	90810	1169.505	906811.23	323.1	-5.7	Planning & Zoning	Long Range Planning		APC	
+352.3	-37.7	90810	1139.064	908389.7	354	-7.4	Office of Real Estate Services	"Leasing, Property & Land Mgmt."		FLR	
+196.2	45	90810	1130.732	712566.95	190.7	4.1	Austin Code	"Case Review, Preparation and Enforcement"		X	
+183.8	-4.1	90810	957.328	600727.12	191.6	-15.9	Communications & Public Information	Video Production Services		ETN	
+345.5	-77.7	88792	2795.782	2177395.48	333.1	-3.9	Austin Resource Recovery	Bulk Collection		INTU	
+164.1	-14.1	88792	850.434	521002.47	175.5	21.9	Municipal Court	Youth Case Management	I.B.M.	IBM	
+452.6	14.1	88792	631.219	588331.03	448.6	8.8	Communications & Public Information	Departmental Support Services		LOW	
+265.2	-40.3	86774	2606.288	1862540.2	265.7	6.3	Development Services	Residential Review		FDX	
+278.4	2.1	86774	1837.207	1332258.49	272	-13.1	Emergency Medical Services	Billing Services		HRB	
+254.8	-25.9	86774	1101.584	770524.75	245.8	14.1	Municipal Court	Collection Services		NSC	
+332	75.5	86774	1029.516	799856.82	329	7	Watershed Protection	Data Management		HAL	
+328.7	50.4	86774	530.402	412670.64	330.4	-5.2	Austin Public Health	Vital Records		JPM	
+361.6	34.2	86774	482.08	379287.27	345.3	-19.3	Mayor & Council	Place 01		SPLS	
+137.4	-21.4	84756	1381.508	808033.48	136.8	-4	Intergovernmental Relations	Government Relations		SO	
+353.2	5.2	84756	1239.31	986468.01	352.2	2.3	Financial Services	Accounts Payable		DISC.A	
+362.6	6.7	84756	694.684	547841.8	348.7	0	Communications & Public Information	Web Development		CF	
+227.2	39.2	84756	616.289	425620.14	238.2	0.9	Management Services	Equity Office		PX	
+444.1	-27.3	84756	353.17	315774.16	437.3	4	Communications & Public Information	Media Relations		GPC	
+342.9	66.7	82738	1655.751	1297124.68	338.5	14.8	Municipal Court	Municipal Court Services		BLK	
+272.4	45.7	82738	901.874	646242.34	271.5	-13.1	Mayor & Council	Mayor		BRK.A	
+343.6	-27.8	82738	483.918	377656.78	335.8	-3.6	Mayor & Council	Place 10		PWR	
+398.4	-0.1	82738	469.294	384887.62	383.6	19.3	Mayor & Council	Place 03		DG	
+386.6	-2.6	82738	467.052	383001.66	381.5	7.3	Mayor & Council	Place 06		TGT	
+86.3	-15.7	80720	2271.75	1155450.4	85.8	4	Financial Services	Payroll		MCHP	
+381.1	63.1	80720	2117.922	1710837.78	364	-0.8	Office of Real Estate Services	Real Property Acquisition		NBR	
+247.2	-53.6	80720	1007.28	709947.34	258	10	Animal Services	Prevention Services		APH	
+213.8	-11.9	80720	892.908	616507	233.5	-12.7	Financial Services	Performance Management		PRGO	
+344.3	-59.8	80720	468.289	360332.12	320.2	-13.2	Mayor & Council	Place 02		ROP	
+513.4	8	80720	0	0	512.2	3.3	Financial Services	Capital Planning		APOL	
+226.5	17.4	78702	2212.959	1522482.76	237.5	0	Aviation	Airport Property Management		XRAY	
+271.8	-60.2	78702	469.891	344479.61	280.6	-16.4	Mayor & Council	Place 08		PCAR	
+348.7	13	76684	2341.766	1841924.78	344.2	7.6	Office of the City Auditor	Audit		PVH	
+197.6	41.1	76684	828.275	519100.99	191.9	3.6	Emergency Medical Services	Employee  Wellness		CVC	
+241.6	84.1	74666	896.558	623965.96	241.8	0	Planning & Zoning	Zoning Case Management		TMK	
+107.7	-22.1	72648	2305.741	1234403.84	109.4	0	Municipal Court	Rehabilitation Services		AEE	
+347.4	-52	72648	806.481	625256.85	326.6	-7.7	Development Services	Service Center		ROK	
+446.2	22.8	72648	789.488	708126.84	437.7	7.2	Office of the City Auditor	Departmental Support Services		TIF	
+431.9	-36.7	72648	584.08	500349.39	421.5	-7.6	Watershed Protection	Stormwater Treatment		CTAS	
+393.2	36.3	72648	467.052	384856.66	388.9	9.9	Mayor & Council	Place 04		JCP	
+174	35.9	72648	259.359	160267.17	179.1	0	Public Works	Neighborhood Partnering Program		CFN	
+512.6	0.8	72648	0	42041.53	506.4	-1.3	Financial Services	Debt Management		SYY	
+292.5	67.7	70630	1008.401	751141.87	293.6	0	Labor Relations Office	Labor Relations		CAM	
+185.8	-60.7	70630	511.933	329725.29	193.8	0	Mayor & Council	Place 09		EXC	
+225.9	65.3	70630	408.332	279024.73	226.9	1.5	Watershed Protection	Environmental Policy		SLB	
+389.6	-26.4	68612	224902.92	183806474.2	379.2	-14.4	Austin Water	Interfund Transfers		SNI	
+414.9	-41.3	68612	467.052	398055.55	412.3	1.2	Mayor & Council	Place 05		UPS	
+78.8	-19.2	66594	6408.849	3056890.43	76.5	2.4	Financial Services	Miscellaneous		ETR	
+119.5	10.6	66594	453.249	253753.81	125.8	0	Austin Code	Code Education and Collaboration		EW	
+223.1	28.5	64576	701.927	478228.92	225.6	-2.1	Office of the City Auditor	Integrity Services		MAT	
+56.2	4.7	64576	658.921	285829.52	60.2	-3.7	Watershed Protection	Value Engineering		LUK	
+349.7	-70.7	64576	532.659	420403.71	346.5	-8.9	Municipal Court	Civil Parking Administration		FFIV	
+374.8	-25.2	64576	468.482	380484.05	367.7	-4.9	Mayor & Council	Place 07		DIS	
+65.3	-3.5	62558	1035.585	480922.42	72.6	0	Municipal Court	Civil Red Light Administration		VNO	
+289.7	84.4	62558	949.116	700608.63	282.5	0	Financial Services	Contract Services		CINF	
+204.4	-49.4	62558	177.962	120158.05	215.3	2.5	Public Works	Urban Trails		JNPR	
+68.2	-10.3	60540	708.106	324996.49	69.2	0	Telecommunications & Regulatory Affairs	Digital Inclusion		R	
+292.1	48.8	58522	97007.689	71211285.5	280.3	7.1	Austin Convention Center	Transfers		EMN	
+201.4	13.6	58522	501.894	333413.04	209.4	0	Law	Public Information Requests		ABT	
+270.3	66.7	58522	307.229	220691.74	269.6	0	Planning & Zoning	Annexation		FTI	
+6.8	-4.6	56504	5573.346	1160842.66	8.9	7.7	Police	Miscellaneous		XEL	
+447.1	-18.5	54486	460547.918	444605771	448.8	3.2	Enterprise Debt Service	Other Requirements		HSY	
+321	-54.1	54486	132527.157	101838708.9	315	-0.7	Nondepartmental	Transfers		MMM	
+16	7.3	54486	13006.342	3088558.17	11	-4.9	Economic Development	Miscellaneous		HCN	
+388.6	10	54486	1682.345	1373695.84	377.2	-7	Office of the City Clerk	Records and Information Management Services		DFS	
+272.4	23.4	54486	117.437	86524.15	284.1	-1.7	Management Services	Agenda Preparation		ECL	
+395.5	-61.6	52468	1076.882	903222.53	398.3	0	Municipal Court	Central Booking		AES	
+47.2	-1.9	52468	60.11	23581.49	51.9	0	Neighborhood Housing & Community Development	Neighborhood & Community Revitalization		NVDA	
+380	-67.7	50450	10486.828	8590804.9	376.7	0	Austin Transportation	Transfers		PAYX	
+48.1	-21	48432	1692.325	648389.98	48.6	-4	Development Services	Miscellaneous		CMS	
+406.4	14.3	48432	918.151	779403.92	407.9	-13.6	Small and Minority Business Resources	MBE/WBE Certification		APA	
+403.7	5.3	48432	755.486	637916.42	402.9	-2.3	Small and Minority Business Resources	Resource Services		URBN	
+21.5	13.3	48432	203.249	55334.53	19.3	0	Neighborhood Housing & Community Development	Financial Empowerment		QEP	
+389.6	-16.1	44396	5326.216	4392619.83	385.2	-6	Austin Public Library	Collection Support		VIAB	
+316	16.3	44396	1419.441	1080381.03	310.6	7	Small and Minority Business Resources	Compliance		ADM	
+265.2	-29.9	42378	21301.943	15594532.21	274.7	11.8	Austin Water	Other Requirements		PH	
+336	-14.2	42378	1445.278	1109957.39	319.2	6.1	Austin Public Library	Cataloging Support		TMO	
+57.5	-21.9	40360	2037	900707.08	61.9	-4.2	Telecommunications & Regulatory Affairs	Miscellaneous		WEC	
+53.1	-14.2	40360	1862.193	753501.75	55	1.5	Austin Public Health	Miscellaneous		ED	
+128.4	-38.2	40360	1249.899	750565.86	148.1	0	Public Works	Other Requirements		EIX	
+4.7	5.6	36324	209.167	32888.15	7.4	0	Austin Public Health	"Women, Infant & Children"		CCL	
+590.9	-9.3	36324	0	0	593.4	0	Parks & Recreation	Tanglewood Neighborhood Park - Pavilion		SNDK	
+118.1	-11.1	34306	93923.7	52785354.09	127.8	-8.9	Austin Energy	Miscellaneous		TDC	
+409.6	-52.5	34306	13806.527	11662494.36	403.5	4.3	Public Works	Transfers		TSS	
+23.8	-10.8	34306	480	134320.16	24.2	0.7	Austin Transportation	Miscellaneous		AEP	
+68.5	-24.6	34306	243.848	108893.54	69.9	-2.8	Mayor & Council	Mayor and Council Admin Costs		DTE	
+499.1	-14.6	34306	0	0	494.7	0	Communications & Technology Management	CTM IT Replacement		PFE	
+759.4	25.8	32288	350.766	-25641.51	750.4	-12.1	Municipal Court	Other Requirements		HIG	
+401.2	24.7	30270	251287.644	210775464.3	402.6	6.6	Austin Energy	Interfund Transfers		ROST	
+15.2	-17.3	30270	129205.102	32184984.3	15.7	-5.8	Aviation	Transfers		PCG	
+423.4	-8.4	30270	22431.991	19141411.26	416.1	4.1	Austin Resource Recovery	Transfers		IGT	
+56	20.2	30270	4073.965	1697145	55.1	-0.2	Economic Development	Transfers		SWN	
+55.5	-4.4	30270	225	98350.88	61.2	0	Communications & Technology Management	Other Requirements		ALXN	
+743.7	17.3	30270	99.083	0	749.8	0	Austin Convention Center	Other Requirements		EXPE	
+415.4	11.4	28252	198902.581	168511253.2	408.3	1.3	Austin Water	Debt Transfers		PETM	
+459.2	-35.9	28252	34598.51	34177024.58	449.3	0	Austin Water	Miscellaneous		HUM	
+46.1	-9.1	28252	8331.72	2993429.31	46.6	3.6	Austin Energy	Other Requirements		NRG	
+413.5	57.4	26234	10845.618	9169098	406	0	Parks & Recreation	Transfers		MMC	
+327	84.3	24216	49080.877	38098551.25	325.3	0	Watershed Protection	Transfers		UNM	
+170.5	60	24216	6703	4150844.29	179.6	-0.1	Austin Energy	Conservation Rebates and Incentives		WMB	
+290.2	56.1	24216	866.787	645873.59	293.9	0	Austin Transportation	Other Requirements		NFLX	
+37.5	-16.8	22198	11610.717	3843153.17	37.2	-3.1	Human Resources	Medical Expenses and Claims Reserve		DUK	
+35.9	13.1	22198	9315.356	3085499.97	38.5	-1.5	Financial Services	Other Requirements		F	
+151.8	-48.7	20180	22650.19	13802389	159.1	-10.9	Financial Services	Transfers		AAPL	
+11.4	-10.3	20180	5477.055	1309108.69	12.8	1.5	Economic Development	Other Requirements		TE	
+126.6	-3.5	20180	4533.453	2568229.12	132.8	1.3	Human Resources	Fully Funded by City - Employee/Retiree		EMC	
+378.6	-10.5	20180	4497.238	3660716.35	370.3	10	Austin Code	Transfers		HOG	
+757.5	-31.4	20180	158.665	0	754	-5.9	Parks & Recreation	Other Requirements		LSI	
+492.7	21.5	20180	0	0	493.2	-0.1	Austin Public Health	Public Health Preparedness		CME	
+535.5	7.4	20180	0	0	536.3	0	Management Services	Miscellaneous		AA	
+748.5	-15.6	18162	13686.996	0	751.6	-6.6	Human Resources	Claims Reserve - Self Insured Programs		CBS	
+438.6	-33.6	18162	3905.297	3369247	427.3	7.6	Building Services	Transfers		FISV	
+765	6.7	18162	258.714	2902.72	761.1	5.2	Austin Public Health	Other Requirements		HBAN	
+9.7	15.9	18162	200.937	34939.55	7.5	5.1	Neighborhood Housing & Community Development	Homeless / Special Needs		HCP	
+402.2	-61.6	16144	50954.198	42688255.34	395.7	0.8	Police	Transfers		HRS	
+399.4	33.3	16144	21216.246	17725487	395.6	11.9	Fire	Transfers		LTD	
+306.8	-17.7	16144	16478.723	12365614.25	303.9	-4.3	Communications & Technology Management	Transfers		CI	
+216.5	18.4	16144	10065.396	6880457.68	226.8	0	Human Resources	Employee CDHP		MDT	
+394.1	-54.5	16144	6245.892	5213962	391.1	-2.8	Development Services	Transfers		JEC	
+344.8	49.3	16144	4822.966	3784575	344.2	5.3	Municipal Court	Transfers		BMS	
+263.7	-52.6	16144	2178.055	1558754.56	264.3	-6.1	Austin Resource Recovery	Other Requirements		LMT	
+150.5	22.4	16144	1817.837	1130596.33	181.3	-10	Watershed Protection	Other Requirements		BMY	
+126.5	-27	16144	1219.888	716206.85	147.5	-9.8	Austin Code	Other Requirements		FE	
+31.8	-7.5	14126	184256.615	59687743.82	33.7	7.3	General Obligation Debt Service	Other Requirements		POM	
+264.9	-70.7	14126	122344.846	88887366.96	274.5	12.3	Human Resources	Employee PPO		LLTC	
+95.5	24.8	14126	42389.46	21756564.38	94.5	0	Human Resources	Employee HMO		VLO	
+406	51.1	14126	11187.712	9322972	389.2	0	Emergency Medical Services	Transfers		PGR	
+403.8	-46.6	14126	7875.307	6573757	394.3	-9.4	Austin Public Health	Transfers		PDCO	
+395.9	17	14126	5215.646	4352366	391.2	-11.9	Austin Public Library	Transfers		KR	
+62	25	14126	4720.763	2047908.25	62.7	0.4	Fleet Services	Transfers		DNR	
+417.2	4.8	14126	1838.707	1575243.41	418.1	-14	Animal Services	Transfers		WPX	
+379.3	8.6	14126	650.368	532032.84	374.6	17.4	Municipal Court	Court Technology		COH	
+452.1	-27.5	14126	298.151	291844.56	446.7	-5.5	Human Resources	Retiree Without Medicare CDHP		DPS	
+490	3.7	14126	148.769	8305063.58	482.8	1.9	Aviation	Other Requirements		BBT	
+39.6	-5.1	14126	80.336	27035.62	40.6	8.3	Fleet Services	Other Requirements		CNP	
+737.9	-19.4	14126	40.867	1110	744.3	0	Building Services	Other Requirements		S	
+258.6	-5.6	12108	100383.171	70987449.98	250.9	-3.1	Austin Energy	Debt Transfers		STJ	
+231.9	-19.7	12108	34229.761	23632015.23	238.3	8.7	Human Resources	Retiree Without Medicare PPO		COL	
+139.6	33.6	12108	10528.296	6168279.8	140.1	0	Human Resources	Retiree Without Medicare HMO		PNC	
+345.4	-34.5	12108	3618.673	2846056.41	343	0	Human Resources	Operations and Administration		TXT	
+768.1	14.2	12108	3600	0	755.1	10.5	Human Resources	Stop Loss Reserve - Self Insured Programs		WY	
+407.8	-17.1	12108	1775.043	1496243	401.4	4.7	Planning & Zoning	Transfers		BEAM	
+11.8	0.8	12108	1106.033	249671.5	10.6	0	Austin Convention Center	Miscellaneous		PCS	
+763.9	20.6	12108	139.057	0	754	18.1	Development Services	Other Requirements		ZION	
+441.8	16.6	12108	41.022	36493	431.5	11.5	Office of the Medical Director	Other Requirements		KMX	
+440.3	3.7	12108	26.663	24331	440.4	-5.3	Labor Relations Office	Other Requirements		CVS	
+745.3	-25.8	12108	19.718	0	750.1	2.6	Animal Services	Other Requirements		TYC	
+158.3	44.2	10090	35176.485	21665300	175.4	-0.1	Enterprise Debt Service	Transfers		KO	
+353	-4.4	10090	17398.726	13559698.78	341.3	0.5	Human Resources	Retiree With Medicare PPO		CMG	
+61.3	-11.1	10090	13365.665	5773165	59.2	0	Watershed Protection	Miscellaneous		RHT	
+133	8.3	10090	8999.899	5172071.15	137.4	-2	Human Resources	Retiree With Medicare HMO		MCK	
+750.2	17.9	10090	5476.829	0	750.3	22.5	Police	Other Requirements		AIV	
+756.3	-11.1	10090	2734.085	0	746	0.4	Fire	Other Requirements		GCI	
+405	-8.3	10090	1395.638	1168018	394.8	0	Neighborhood Housing & Community Development	Transfers		TROW	
+730.3	1.4	10090	950.305	826635	738.1	2.1	Management Services	Transfers		LM	
+755.3	-24.2	10090	501.439	0	752.2	1.3	Emergency Medical Services	Other Requirements		SYMC	
+750.1	2.8	10090	355.25933	0	750.6	-6	Communications & Technology Management	Miscellaneous		C	
+737.6	23.7	10090	81.622	0	750.3	5.5	Austin Public Library	Other Requirements		NFX	
+115.8	-4.4	10090	57.812	31766.42	123	-3.8	Human Resources	Retiree With Medicare CDHP		LRCX	
+757.2	-16.5	10090	33.252	0	758.5	-1.4	Human Resources	Other Requirements		DF	
+761.2	12.2	10090	31.059	0	748.2	8.3	Law	Other Requirements		FHN	
+-0.4	-6.8	10090	27.563	0	0	0	Management Services	Other Requirements		THC	
+744.8	-32.8	10090	14.159	0	745.5	4.2	Planning & Zoning	Other Requirements		JDSU	
+751.1	-31.8	10090	10.075	0	747.5	-6	Office of Real Estate Services	Other Requirements		MU	
+757.4	17.6	10090	8.141	0	749.9	-1.3	Office of the City Auditor	Other Requirements		CHK	
+764.3	-19.5	10090	7.851	0	754.6	0	Small and Minority Business Resources	Other Requirements		CCI	
+764.8	-8.2	10090	7.711	0	753.3	5.5	Communications & Public Information	Other Requirements		TWC	
+733.4	-11.5	10090	6.642	0	749.9	0	Neighborhood Housing & Community Development	Other Requirements		BSX	
+-4.6	9	10090	6.627	0	-1.1	-3.3	Office of the City Clerk	Other Requirements		EQT	
+740.3	-32	10090	3.94	0	745.5	-0.4	Telecommunications & Regulatory Affairs	Other Requirements		AMD	
+190.7	10.4	8072	8518.819	5610763.06	205.8	-0.4	Austin Public Health	Child & Youth		HSP	
+424.7	-32.8	8072	7572.573	6429304.26	411.4	14.1	Human Resources	Optional Coverage paid by Employee		EFX	
+25.3	7	8072	1193.281	342452.49	25.5	0	Austin Public Health	Community Planning		STX	
+15.8	-4.9	8072	122.3	29246.69	12.2	0	Communications & Public Information	Miscellaneous		WDC	
+758.4	33.6	8072	31.5	-8.2	750.4	12.5	Human Resources	Court and Legal Fees		XL	
+735	16.7	8072	2.077	0	746.6	15.5	Intergovernmental Relations	Other Requirements		PLD	
+219.6	-50.2	6054	2477.675	1698195.1	232	0.7	Human Resources	Indemnity Payments		TER	
+431.4	-14.3	6054	2303.994	2038457.92	430	-10.8	Human Resources	Optional Coverage paid by Retiree		ANF	
+250.5	-33.1	6054	645.191	451241.07	240.4	2.2	Austin Public Health	HIV		JOY	
+47.3	8.3	6054	378.617	137865.42	48	5.9	Municipal Court	Security Services		WYNN	
+149.6	-2.8	6054	216.7	132110.48	163.6	0	Neighborhood Housing & Community Development	Renter Assistance		WIN	
+734.4	7.5	6054	13.564	0	741.8	7.7	Mayor & Council	Other Requirements		RF	
+546.2	2.8	6054	0	-0.1	547.6	0	Municipal Court	Miscellaneous		AVP	
+607.5	-8.7	6054	0	0	607.2	-9.1	Planning & Zoning	PLAN - ADMINSTRATION		STZ	
+289.8	-23.5	4036	12780.916	9584669.42	301	4.5	Human Resources	Employee Dental		ABC	
+273	7.3	4036	8395.7	5990702	259.7	-7.6	Austin Conv & Visitors Bureau	Acvb Corporation		MKC	
+198.1	-68.9	4036	7769.281	5054102.14	200.2	-25.4	Austin Public Health	Basic Needs		DELL	
+174.8	16.3	4036	6604.688	4132034.15	184.4	5.2	Aviation	Air/Fire Rescue (ARFF)		GE	
+437.5	-43.9	4036	2977.317	2563741.15	427	-2.8	Austin Public Health	Workforce Development		ADP	
+424.5	-14.9	4036	783.882	670402	416.8	-2.7	Human Resources	Transfers		DLTR	
+431.3	-29.6	4036	647.68	556230	425.8	-1.8	Law	Transfers		RSG	
+138	-9	4036	465	272890.58	141.3	7.4	Human Resources	Miscellaneous		SRE	
+389.1	27.3	4036	422.65	352540	392.5	0.4	Office of the City Clerk	Transfers		COST	
+400.1	-15.7	4036	323.727	270107	395.5	-4.8	Office of Real Estate Services	Transfers		SJM	
+411.2	5	4036	306.731	259271	404.5	0.1	Mayor & Council	Transfers		FITB	
+85.9	-23	4036	294	146952.69	83.9	-2.9	Neighborhood Housing & Community Development	Miscellaneous		XLNX	
+467.7	-21.5	4036	165.026	165026	461.7	0	Small and Minority Business Resources	Transfers		DOW	
+456.6	-20.4	4036	149.734	149734	458.7	2.8	Office of the City Auditor	Transfers		CAG	
+481.6	33.5	4036	113.272	113272	459.5	14.2	Communications & Public Information	Transfers		GPS	
+466.8	-32.4	4036	64.28	64280	461.7	-5.3	Telecommunications & Regulatory Affairs	Transfers		CLX	
+765	0.7	4036	61	-26920.71	749.9	0	Fleet Services	Miscellaneous		SEE	
+747.2	28.8	4036	46.665	0	749.7	0.4	Neighborhood Housing & Community Development	Renter Assistance Counseling	A.I.G.	AIG	
+502.4	10.9	4036	0	0	492.2	0.3	Austin Energy	Distribution		MO	
+500.5	-33.9	4036	0	0	493.3	-1.9	Austin Transportation	Corridor Program Management		FIS	
+513	20.5	4036	0	0	500.1	0	Emergency Medical Services	Miscellaneous		NEM	
+402	-40.7	4036	-1635.614	-1362642.35	389.7	-5	Human Resources	Expense Refunds		LH	
+266.2	-16.4	2018	7424.82	5375195.54	273.9	0	Austin Public Health	Homeless		GILD	
+131.2	-13.1	2018	7156.713	4045917	127.4	-0.3	Nondepartmental	Other Requirements		TEG	
+297.8	60.4	2018	4207.864	3142157.81	300.8	-0.7	Austin Public Health	Behavioral Health		MTB	
+463.2	11.7	2018	2000	2000000	454.1	-9.6	Planning & Zoning	Group Placeholder		JWN	
+69.8	12.2	2018	1435.629	666291	72	0	Human Resources	Settlements and Impairments		AMZN	
+23.6	-1.3	2018	1229.15	369338.37	27.2	9.7	Austin Public Health	Health Equity Contracts		OKE	
+762.5	-28.1	2018	100.735	0	750.1	-5.3	Austin Public Health	Community Relations and Contract Management		MAS	
+-4.7	-0.1	2018	64.025	1432	-0.9	-1.5	Office of the City Clerk	Elections		EQR	
+460.1	-4.1	2018	34.89	34890	455.8	-2.7	Intergovernmental Relations	Transfers		BAC	
+737.9	-27.5	2018	1.712	0	749	8.5	Parks & Recreation	PARD Miscellaneous Donation Trust		EA	
+491.3	29.2	2018	0	0	487.1	0	Austin Conv & Visitors Bureau	Transfers		AIZ	
+506.9	-31	2018	0	0	495.5	4.7	Development Services	Technology Surcharge		SAI	
+500.9	23.1	2018	0	0	498.4	0	Economic Development	Heritage Tourism		SWY	
+525.1	-9.8	2018	0	-2882.23	513.3	0	Fire	Miscellaneous		V	
+538.4	-0.7	2018	0	0	535.7	0	Labor Relations Office	Transfers		NOC	
+552.6	-1.7	2018	0	0	551.6	0	Neighborhood Housing & Community Development	Small Business Assistance		LIFE	
+591.3	9.4	2018	0	0	592.6	0	Office of the Medical Director	Transfers		HES	
+597.7	-0.9	2018	0	0	595.3	0	Planning & Zoning	Miscellaneous		BK	
+612.3	2.1	2018	0	0	612.5	1.4	Planning & Zoning	PLAN - DATA DEVELOPMENT & MAINT		MDLZ	
+645.3	0.2	2018	0	0	645.4	0	Planning & Zoning	PLAN - LONG RANGE PLAN (MTP)		OI	
+669	6	2018	0	0	671	0	Planning & Zoning	PLAN - SHORT RANGE PLANNING		MRO	
+692.1	-14.2	2018	0	0	690	-3.9	Planning & Zoning	RTCC		ACT	
