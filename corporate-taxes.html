@@ -81,14 +81,8 @@
     <div id="shell">
         <div class="mainTabsContainer tabsContainer">
             <ul id="mainTabs" class="mainTabs tabs">
-                <li class="first mainTabHome"><a href="https://www.nytimes.com">Home Page</a></li>
-                <li class="mainTabTodaysPaper"><a href="https://www.nytimes.com/pages/todayspaper/index.html">Today&apos;s Paper</a></li>
-                <li class="mainTabVideo"><a href="https://www.nytimes.com/video">Video</a></li>
-                <li class="mainTabMostPopular"><a href="https://www.nytimes.com/mostpopular">Most Popular</a></li>
+
             </ul>
-        </div>
-        <div id="editionToggle" class="editionToggle">
-            Edition: <span id="editionToggleUS"><a href="https://www.nytimes.com" onmousedown="dcsMultiTrack(&apos;DCS.dcssip&apos;,&apos;www.nytimes.com&apos;,&apos;DCS.dcsuri&apos;,&apos;/toggleIHTtoNYT.html&apos;,&apos;WT.ti&apos;,&apos;toggleIHTtoNYT&apos;,&apos;WT.z_dcsm&apos;,&apos;1&apos;);" onclick="NYTD.EditionPref.setUS();">U.S.</a></span>            / <span id="editionToggleGlobal"><a href="http://global.nytimes.com/" onmousedown="dcsMultiTrack(&apos;DCS.dcssip&apos;,&apos;www.nytimes.com&apos;,&apos;DCS.dcsuri&apos;,&apos;/toggleNYTtoIHT.html&apos;,&apos;WT.ti&apos;,&apos;toggleNYTtoIHT&apos;,&apos;WT.z_dcsm&apos;,&apos;1&apos;);" onclick="NYTD.EditionPref.setGlobal();">Global</a></span>
         </div>
         <script type="text/javascript">
             NYTD.loadEditionToggle();
@@ -101,78 +95,7 @@
             }, 0)
         </script>
         <div id="page" class="tabContent active">
-            <div id="masthead" class="wrap">
-                <div id="searchWidget">
-                    <div class="inlineSearchControl">
-                        <form enctype="application/x-www-form-urlencoded" action="https://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
-                            <input type="hidden" value="full" name="date_select">
-                            <label for="searchQuery">Search All NYTimes.com</label>
-                            <input type="text" class="text" value="" size="" name="query" id="searchQuery">
-                            <input type="hidden" id="searchAll" name="type" value="nyt">
-                            <input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="https://static01.nyt.com/images/global/buttons/go.gif">
-                        </form>
-                    </div>
-                </div>
-                <div id="branding" itemscope="" itemtype="http://schema.org/Organization">
-                    <a href="https://www.nytimes.com" itemprop="url"><img src="https://static01.nyt.com/images/misc/nytlogo110x16.gif" alt="New York Times" id="NYTLogo" itemprop="logo"></a>
-                </div>
-                <div id="date">
-                    <p>
-                    </p>
-                </div>
-                <h2>
-                    <a href="https://www.nytimes.com/pages/opinion/index.html#sundayreview"><img src="https://static01.nyt.com/images/opinion/article/sundayreview-logo-small.png" alt="The Sunday Review"></a>
-                </h2>
-            </div>
-            <div class="navigation tabsContainer">
-                <ul class="tabs">
-                    <li id="navWorld" class="first ">
-                        <a href="https://www.nytimes.com/pages/world/index.html">World</a>
-                    </li>
-                    <li id="navUs">
-                        <a href="https://www.nytimes.com/pages/national/index.html">U.S.</a>
-                    </li>
-                    <li id="navNyregion">
-                        <a href="https://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
-                    </li>
-                    <li id="navBusiness">
-                        <a href="https://www.nytimes.com/pages/business/index.html">Business</a>
-                    </li>
-                    <li id="navTechnology">
-                        <a href="https://www.nytimes.com/pages/technology/index.html">Technology</a>
-                    </li>
-                    <li id="navScience">
-                        <a href="https://www.nytimes.com/pages/science/index.html">Science</a>
-                    </li>
-                    <li id="navHealth">
-                        <a href="https://www.nytimes.com/pages/health/index.html">Health</a>
-                    </li>
-                    <li id="navSports">
-                        <a href="https://www.nytimes.com/pages/sports/index.html">Sports</a>
-                    </li>
-                    <li id="navOpinion">
-                        <a href="https://www.nytimes.com/pages/opinion/index.html">Opinion</a>
-                    </li>
-                    <li id="navArts">
-                        <a href="https://www.nytimes.com/pages/arts/index.html">Arts</a>
-                    </li>
-                    <li id="navStyle">
-                        <a href="https://www.nytimes.com/pages/style/index.html">Style</a>
-                    </li>
-                    <li id="navTravel">
-                        <a href="https://www.nytimes.com/pages/travel/index.html">Travel</a>
-                    </li>
-                    <li id="navJobs">
-                        <a href="https://www.nytimes.com/pages/jobs/index.html">Jobs</a>
-                    </li>
-                    <li id="navRealestate">
-                        <a href="https://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
-                    </li>
-                    <li id="navAutomobiles">
-                        <a href="https://www.nytimes.com/pages/automobiles/index.html">Autos</a>
-                    </li>
-                </ul>
-            </div>
+            
             <div id="main">
                 <div id="interactiveShell">
                     <div class="columnGroup firstColumnGroup">
@@ -184,15 +107,12 @@
                                 <div class="storyHeader">
                                     <h6 class="dateline">
                                         <span>Published: </span>May 25, 2013 </h6>
-                                    <h1>Across U.S. Companies, Tax Rates Vary Greatly</h1>
+                                    <h1>Where does your Tax goes to?</h1>
                                 </div>
                                 <div class="storySummary">
-                                    <span class="summary">Last week, in a Congressional hearing, Apple got grilled for its low-tax strategy. But not every business can copy that approach. Here is a look at what S.&amp;P. 500 companies paid in corporate income taxes &#x2014; federal, state, local and foreign &#x2014; from 2007 to 2012, according to S&amp;P Capital IQ.</span>
+                                    <span class="summary">Do you know where does your Tax goes to? This is a web page showing how your tax goes to blgflkajsdglkauergjfbHG>SDBFNMcx gbm,zb &#x2014; federal, state, local and foreign &#x2014; from 2007 to 2012, according to S&amp;P Capital IQ.</span>
                                     <span class="noWrap refer">
-                    
-                                                
-                        
-                                                    <a href="https://www.nytimes.com/2013/05/26/opinion/sunday/who-will-crack-the-code.html">Related Article &#xBB;</a>
+                                    <a href="https://www.nytimes.com/2013/05/26/opinion/sunday/who-will-crack-the-code.html">Related Article &#xBB;</a>
                                                 
                     </span>
                                 </div>
@@ -706,11 +626,11 @@
                                                 .entries(companies);
 
                                             // Compute the overall rate for all data.
-                                            var overallRate = rate(d3.sum(companies, taxes), d3.sum(companies, earnings));
+                                            var overallRate = rate(d3.sum(companies, taxes), d3.sum(companies, earnings))-1;
 
                                             // Compute the overall rate by sector.
                                             sectors.forEach(function(d) {
-                                                d.rate = rate(d3.sum(d.values, taxes), d3.sum(d.values, earnings));
+                                                d.rate = rate(d3.sum(d.values, taxes), d3.sum(d.values, earnings))-1;
                                             });
 
                                             // Sort sectors by ascending overall rate.
