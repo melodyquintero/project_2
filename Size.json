@@ -1,53 +1,19 @@
 {
-  "name": " ",
+  "name": "",
   "children": [
     {
       "name": "Austin Energy",
       "children": [
         {
-          "name": "Debt Transfers",
-          "children": [
-            {
-              "name": "Util D/S Separate Lien",
-              "size": 61463614.88
-            },
-            {
-              "name": "Utility D/S Sub Lien",
-              "size": 8537247.4
-            }
-          ]
-        },
-        {
-          "name": "Departmental Support Services",
-          "children": [
-            {
-              "name": "Regular wages",
-              "size": 22680923.78
-            },
-            {
-              "name": "Maintenance-computer software",
-              "size": 11098857.67
-            },
-            {
-              "name": "Services-IT staffing",
-              "size": 5758197.8
-            },
-            {
-              "name": "Contribution to employees ret",
-              "size": 4946493
-            }
-          ]
-        },
-        {
           "name": "Interfund Transfers",
           "children": [
             {
               "name": "General Fund",
-              "size": 90833330
+              "size": 99916665
             },
             {
               "name": "Electric CIP Fund",
-              "size": 44000435.61
+              "size": 48889372.9
             },
             {
               "name": "Utility Reserve Fund",
@@ -55,16 +21,11 @@
             },
             {
               "name": "Administrative Support",
-              "size": 21687691
-            }
-          ]
-        },
-        {
-          "name": "Miscellaneous",
-          "children": [
+              "size": 23856461
+            },
             {
-              "name": "Electric CIP Fund",
-              "size": 44000435.61
+              "name": "Others",
+              "size": 25995814.35
             }
           ]
         },
@@ -73,38 +34,82 @@
           "children": [
             {
               "name": "Transmission Cost of Service",
-              "size": 102504492.7
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Enterprise Debt Service",
-      "children": [
-        {
-          "name": "Other Requirements",
-          "children": [
-            {
-              "name": "Interest payment D/S funds",
-              "size": 250224794.4
+              "size": 113548606.5
             },
             {
-              "name": "Principal payment D/S funds",
-              "size": 129381367.4
+              "name": "Regular wages - full-time",
+              "size": 2980333.09
             },
             {
-              "name": "Debt Defeasance",
-              "size": 63468834.35
+              "name": "Services-construction contr",
+              "size": 1730104.95
+            },
+            {
+              "name": "Indirect costs-FMC 74-4",
+              "size": 1603450.02
+            },
+            {
+              "name": "Others",
+              "size": 227530.82
             }
           ]
         },
         {
-          "name": "Transfers",
+          "name": "Debt Transfers",
           "children": [
             {
-              "name": "ABIA 95 D/S Fund",
-              "size": 21665300
+              "name": "Util D/S Separate Lien",
+              "size": 70986125.56
+            },
+            {
+              "name": "Utility D/S Sub Lien",
+              "size": 8848603.73
+            },
+            {
+              "name": "Utility D/S Prior Lien",
+              "size": 835659.09
+            },
+            {
+              "name": "Capital lease principal",
+              "size": 131106.29
+            },
+            {
+              "name": "Others",
+              "size": 19824
+            }
+          ]
+        },
+        {
+          "name": "Departmental Support Services",
+          "children": [
+            {
+              "name": "Regular wages - full-time",
+              "size": 23740778.81
+            },
+            {
+              "name": "Maintenance-computer software",
+              "size": 11197990.85
+            },
+            {
+              "name": "Services-IT staffing",
+              "size": 5859972.3
+            },
+            {
+              "name": "Contribution to employees ret",
+              "size": 5172720
+            },
+            {
+              "name": "Others",
+              "size": 22049575
+            }
+          ]
+        },
+        {
+          "name": "OTHERS",
+          "children": [
+            {
+              "name": "OTHERS",
+              "size": " 181,619,219 "
             }
           ]
         }
@@ -118,19 +123,23 @@
           "children": [
             {
               "name": "General Fund",
-              "size": 90833330
+              "size": 42096869
             },
             {
-              "name": "Debt Defeasance",
-              "size": 63468834.35
+              "name": "Wastewater CIP Fund",
+              "size": 34717000
             },
             {
               "name": "TRF Operating to Debt Defeasance",
               "size": 34000000
             },
             {
-              "name": "Wastewater CIP Fund",
-              "size": 31178000
+              "name": "TRF CRF to Debt Defeasance",
+              "size": 30000000
+            },
+            {
+              "name": "Others",
+              "size": 57276314.1
             }
           ]
         },
@@ -139,7 +148,23 @@
           "children": [
             {
               "name": "Util D/S Separate Lien",
-              "size": 61463614.88
+              "size": 110174354.9
+            },
+            {
+              "name": "Utility D/S Prior Lien",
+              "size": 56722879.65
+            },
+            {
+              "name": "Utility D/S Sub Lien",
+              "size": 8972960.57
+            },
+            {
+              "name": "GO Debt Service",
+              "size": 2868844
+            },
+            {
+              "name": "Others",
+              "size": 366737.51
             }
           ]
         },
@@ -149,6 +174,116 @@
             {
               "name": "Water Operating Fund",
               "size": 20000000
+            },
+            {
+              "name": "Wastewater Operating Fund",
+              "size": 10000000
+            },
+            {
+              "name": "Reclaimed Water Fund",
+              "size": 4000000
+            },
+            {
+              "name": "Temporary employees",
+              "size": 127325.27
+            },
+            {
+              "name": "Others",
+              "size": 60426.07
+            }
+          ]
+        },
+        {
+          "name": "Treatment Wastewater Operations",
+          "children": [
+            {
+              "name": "Chemicals",
+              "size": 5773335.87
+            },
+            {
+              "name": "Regular wages - full-time",
+              "size": 5456168.92
+            },
+            {
+              "name": "Electric services",
+              "size": 5094902.3
+            },
+            {
+              "name": "Services-Bio Solid Reuse",
+              "size": 2378641.1
+            },
+            {
+              "name": "Others",
+              "size": 10352829.7
+            }
+          ]
+        },
+        {
+          "name": "Treatment Water Operations",
+          "children": [
+            {
+              "name": "Electric services",
+              "size": 8301838.8
+            },
+            {
+              "name": "Regular wages - full-time",
+              "size": 5187251.32
+            },
+            {
+              "name": "Chemicals",
+              "size": 3859988.36
+            },
+            {
+              "name": "Insurance-health/life/dental",
+              "size": 1700745
+            },
+            {
+              "name": "Others",
+              "size": 5929836.9
+            }
+          ]
+        },
+        {
+          "name": "OTHERS",
+          "children": [
+            {
+              "name": "OTHERS",
+              "size": 128768129.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Enterprise Debt Service",
+      "children": [
+        {
+          "name": "Other Requirements",
+          "children": [
+            {
+              "name": "Interest payment D/S funds",
+              "size": 250867083.4
+            },
+            {
+              "name": "Principal payment D/S funds",
+              "size": 129381367.4
+            },
+            {
+              "name": "TRF CRF to Debt Defeasance",
+              "size": 63468834.35
+            },
+            {
+              "name": "Services-other",
+              "size": 1553487.49
+            }
+          ]
+        },
+        {
+          "name": "Transfers",
+          "children": [
+            {
+              "name": "ABIA 95 D/S Fund",
+              "size": 23659200
             }
           ]
         }
@@ -158,29 +293,27 @@
       "name": "Police",
       "children": [
         {
-          "name": "Centralized Investigations",
-          "children": [
-            {
-              "name": "Regular wages",
-              "size": 14003075.07
-            }
-          ]
-        },
-        {
           "name": "Patrol",
           "children": [
             {
-              "name": "Regular wages",
-              "size": 14003075.07
-            }
-          ]
-        },
-        {
-          "name": "Patrol Support",
-          "children": [
+              "name": "Regular wages - Civil Services",
+              "size": 51535711.74
+            },
             {
-              "name": "Regular wages",
-              "size": 14003075.07
+              "name": "Contribution to police ret",
+              "size": 14240869.31
+            },
+            {
+              "name": "Insurance-health/life/dental",
+              "size": 11412897.66
+            },
+            {
+              "name": "Overtime - Civil Service",
+              "size": 5306130.06
+            },
+            {
+              "name": "Others",
+              "size": 32992294.56
             }
           ]
         },
@@ -188,8 +321,83 @@
           "name": "Transfers",
           "children": [
             {
+              "name": "Administrative Support",
+              "size": 17885064
+            },
+            {
+              "name": "CTM Support",
+              "size": 10203387
+            },
+            {
               "name": "CTECC Support",
-              "size": 7862720
+              "size": 8648990
+            },
+            {
+              "name": "Regional Radio System",
+              "size": 4541770
+            },
+            {
+              "name": "Others",
+              "size": 5655697.12
+            }
+          ]
+        },
+        {
+          "name": "Centralized Investigations",
+          "children": [
+            {
+              "name": "Regular wages - Civil Services",
+              "size": 14643674.57
+            },
+            {
+              "name": "Contribution to police ret",
+              "size": 4000443.85
+            },
+            {
+              "name": "Insurance-health/life/dental",
+              "size": 2893062.49
+            },
+            {
+              "name": "Vacation pay",
+              "size": 1435741.46
+            },
+            {
+              "name": "Others",
+              "size": 22972922.37
+            }
+          ]
+        },
+        {
+          "name": "Patrol Support",
+          "children": [
+            {
+              "name": "Regular wages - Civil Services",
+              "size": 12838673.78
+            },
+            {
+              "name": "Contribution to police ret",
+              "size": 3370206.88
+            },
+            {
+              "name": "Insurance-health/life/dental",
+              "size": 2490741.73
+            },
+            {
+              "name": "Vacation pay",
+              "size": 1183721.93
+            },
+            {
+              "name": "Others",
+              "size": 6502860.73
+            }
+          ]
+        },
+        {
+          "name": "OTHERS",
+          "children": [
+            {
+              "name": "OTHERS",
+              "size": 115719282.5
             }
           ]
         }
@@ -199,6 +407,31 @@
       "name": "Human Resources",
       "children": [
         {
+          "name": "Employee PPO",
+          "children": [
+            {
+              "name": "Medical Claims",
+              "size": 65074938.27
+            },
+            {
+              "name": "Prescription plan",
+              "size": 19375143.65
+            },
+            {
+              "name": "Third party admn costs to dist",
+              "size": 12648223.08
+            },
+            {
+              "name": "Services-benefits management",
+              "size": 3811294.75
+            },
+            {
+              "name": "Others",
+              "size": 625990.29
+            }
+          ]
+        },
+        {
           "name": "Employee HMO",
           "children": [
             {
@@ -206,26 +439,20 @@
               "size": 16830610.29
             },
             {
+              "name": "Third party admn costs to dist",
+              "size": 4106022.2
+            },
+            {
               "name": "Prescription plan",
               "size": 4045811.83
-            }
-          ]
-        },
-        {
-          "name": "Employee PPO",
-          "children": [
+            },
             {
-              "name": "Medical Claims",
-              "size": 16830610.29
-            }
-          ]
-        },
-        {
-          "name": "Retiree With Medicare PPO",
-          "children": [
+              "name": "Services-benefits management",
+              "size": 864397.75
+            },
             {
-              "name": "Medical Claims",
-              "size": 16830610.29
+              "name": "Others",
+              "size": 15744.51
             }
           ]
         },
@@ -234,7 +461,33 @@
           "children": [
             {
               "name": "Medical Claims",
-              "size": 16830610.29
+              "size": 17441120.8
+            },
+            {
+              "name": "Others",
+              "size": 6190894.43
+            }
+          ]
+        },
+        {
+          "name": "Retiree With Medicare PPO",
+          "children": [
+            {
+              "name": "Prescription plan",
+              "size": 8072036.03
+            },
+            {
+              "name": "Others",
+              "size": 5487662.75
+            }
+          ]
+        },
+        {
+          "name": "OTHERS",
+          "children": [
+            {
+              "name": "OTHERS",
+              "size": 65090734.3
             }
           ]
         }
@@ -244,24 +497,100 @@
       "name": "Fire",
       "children": [
         {
-          "name": "Departmental Support Services",
+          "name": "Combat Operations",
           "children": [
             {
-              "name": "Regular wages",
-              "size": 22680923.78
+              "name": "Regular wages - Civil Services",
+              "size": 57666020.9
             },
             {
-              "name": "Regular wages",
-              "size": 14003075.07
+              "name": "Contribution to firefighter rt",
+              "size": 15058867.81
+            },
+            {
+              "name": "Insurance-health/life/dental",
+              "size": 12186269.41
+            },
+            {
+              "name": "Overtime - Civil Service",
+              "size": 10660713.06
+            },
+            {
+              "name": "Others",
+              "size": 22421368.77
             }
           ]
         },
         {
-          "name": "Combat Operations",
+          "name": "Transfers",
           "children": [
             {
-              "name": "Regular wages",
-              "size": 14003075.07
+              "name": "Administrative Support",
+              "size": 9207107
+            },
+            {
+              "name": "CTECC Support",
+              "size": 4150925
+            },
+            {
+              "name": "CTM Support",
+              "size": 3431395
+            },
+            {
+              "name": "Workers' Compensation",
+              "size": 1234552
+            },
+            {
+              "name": "Others",
+              "size": 1494008
+            }
+          ]
+        },
+        {
+          "name": "Departmental Support Services",
+          "children": [
+            {
+              "name": "Regular wages - full-time",
+              "size": 2674807.33
+            },
+            {
+              "name": "Regular wages - Civil Services",
+              "size": 1206938.97
+            },
+            {
+              "name": "Insurance-health/life/dental",
+              "size": 800158.12
+            },
+            {
+              "name": "Contribution to employees ret",
+              "size": 590632.86
+            },
+            {
+              "name": "Others",
+              "size": 4041548.86
+            }
+          ]
+        },
+        {
+          "name": "OTHERS",
+          "children": [
+            {
+              "name": "OTHERS",
+              "size": 16936630.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nondepartmental",
+      "children": [
+        {
+          "name": "Transfers",
+          "children": [
+            {
+              "name": "Transfer Total",
+              "size": 134255433.7
             }
           ]
         }
@@ -275,25 +604,23 @@
           "children": [
             {
               "name": "Convention Center",
-              "size": 35317992
-            }
-          ]
-        },
-        {
-          "name": "Departmental Support Services",
-          "children": [
+              "size": 38849792
+            },
             {
-              "name": "Regular wages",
-              "size": 22680923.78
-            }
-          ]
-        },
-        {
-          "name": "Event Sales and Contracting",
-          "children": [
+              "name": "ACCD HOT D/S Fund",
+              "size": 16783350
+            },
             {
-              "name": "Regular wages",
-              "size": 22680923.78
+              "name": "Conv Ctr CIP Fund",
+              "size": 12480733.5
+            },
+            {
+              "name": "PEC Operating Fund",
+              "size": 7861258
+            },
+            {
+              "name": "Others",
+              "size": 9429371
             }
           ]
         },
@@ -301,58 +628,33 @@
           "name": "Facilities Operations",
           "children": [
             {
-              "name": "Regular wages",
-              "size": 22680923.78
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Nondepartmental",
-      "children": [
-        {
-          "name": "Other Requirements",
-          "children": [
-            {
-              "name": "Interdepartmental Charges",
-              "size": 4045917
-            }
-          ]
-        },
-        {
-          "name": "Transfers",
-          "children": [
-            {
-              "name": "Conv Ctr Tax Fund",
-              "size": 34387280.25
+              "name": "Services-other",
+              "size": 7511784.4
             },
             {
-              "name": "Conv Ctr Venue Fund",
-              "size": 15281707.04
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Aviation",
-      "children": [
-        {
-          "name": "Airport Security",
-          "children": [
+              "name": "Regular wages - full-time",
+              "size": 1800414.09
+            },
             {
-              "name": "Regular wages",
-              "size": 22680923.78
+              "name": "Others",
+              "size": 5620923.77
             }
           ]
         },
         {
-          "name": "Building Maintenance",
+          "name": "Event Sales and Contracting",
           "children": [
             {
-              "name": "Regular wages",
-              "size": 22680923.78
+              "name": "Services-other",
+              "size": 5500000
+            },
+            {
+              "name": "Regular wages - full-time",
+              "size": 822781.84
+            },
+            {
+              "name": "Others",
+              "size": 1148078.93
             }
           ]
         },
@@ -360,176 +662,35 @@
           "name": "Departmental Support Services",
           "children": [
             {
-              "name": "Regular wages",
-              "size": 22680923.78
-            }
-          ]
-        },
-        {
-          "name": "Other Requirements",
-          "children": [
-            {
-              "name": "ABIA 95 D/S Fund",
-              "size": 21665300
-            }
-          ]
-        },
-        {
-          "name": "Transfers",
-          "children": [
-            {
-              "name": "ABIA 95 D/S Fund",
-              "size": 21665300
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "General Obligation Debt Service",
-      "children": [
-        {
-          "name": "Other Requirements",
-          "children": [
-            {
-              "name": "Interest-general",
-              "size": 33150169.98
+              "name": "Regular wages - full-time",
+              "size": 2672422.8
             },
             {
-              "name": "Redemption of principal-gen",
-              "size": 25510000
+              "name": "Others",
+              "size": 3454106.27
+            }
+          ]
+        },
+        {
+          "name": "OTHERS",
+          "children": [
+            {
+              "name": "OTHERS",
+              "size": 15887288.23
             }
           ]
         }
       ]
     },
     {
-      "name": "Watershed Protection",
+      "name": "ALL OTHERS",
       "children": [
         {
-          "name": "Departmental Support Services",
+          "name": "ALL OTHERS",
           "children": [
             {
-              "name": "Regular wages",
-              "size": 22680923.78
-            },
-            {
-              "name": "Maintenance-computer software",
-              "size": 11098857.67
-            }
-          ]
-        },
-        {
-          "name": "Drainage Pipeline Management",
-          "children": [
-            {
-              "name": "Regular wages",
-              "size": 22680923.78
-            }
-          ]
-        },
-        {
-          "name": "Field Operations Management",
-          "children": [
-            {
-              "name": "Regular wages",
-              "size": 22680923.78
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Communications & Technology Management",
-      "children": [
-        {
-          "name": "Applications and Business Transformation Services",
-          "children": [
-            {
-              "name": "Regular wages",
-              "size": 22680923.78
-            }
-          ]
-        },
-        {
-          "name": "CTECC Infrastructure and Public Safety",
-          "children": [
-            {
-              "name": "Regular wages",
-              "size": 22680923.78
-            }
-          ]
-        },
-        {
-          "name": "Infrastructure",
-          "children": [
-            {
-              "name": "Regular wages",
-              "size": 22680923.78
-            }
-          ]
-        },
-        {
-          "name": "Wireless Infrastructure and Public Safety",
-          "children": [
-            {
-              "name": "Regular wages",
-              "size": 22680923.78
-            }
-          ]
-        },
-        {
-          "name": "Transfers",
-          "children": [
-            {
-              "name": "CTM CIP Fund",
-              "size": 12270326.25
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Emergency Medical Services",
-      "children": [
-        {
-          "name": "Departmental Support Services",
-          "children": [
-            {
-              "name": "Regular wages",
-              "size": 22680923.78
-            }
-          ]
-        },
-        {
-          "name": "Emergency Communications",
-          "children": [
-            {
-              "name": "Regular wages",
-              "size": 22680923.78
-            }
-          ]
-        },
-        {
-          "name": "Transfers",
-          "children": [
-            {
-              "name": "CTECC Support",
-              "size": 7862720
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "All Others",
-      "children": [
-        {
-          "name": "All Others",
-          "children": [
-            {
-              "name": "All Others",
-              "size": 706120598.2
+              "name": "ALL OTHERS",
+              "size": 1068771577
             }
           ]
         }
